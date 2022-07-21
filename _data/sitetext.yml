@@ -35,7 +35,7 @@ en: &DEFAULT_EN
     title: "Các gói mentor"
     text: "Chương trình mentor được chính team Jinchuriki xây dựng và phát triển"
     section: portfolio
-    closebutton: "Close Project"
+    closebutton: "Close"
 
   timeline:
     title: "Timeline"

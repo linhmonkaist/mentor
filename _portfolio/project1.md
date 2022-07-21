@@ -24,7 +24,7 @@ Với chương trình mentor 1:1, mentee sẽ được đánh giá profile, đá
 **Cách thức đăng kí chương trình mentor:**  
 {:.list-inline}
 1. Gửi CV của bạn qua email: nguyenlinhmon@gmail.com cho team Jinchuriki đánh giá trước.
-2. Thanh toán phí mentor vào tài khoản (2 cách)
+2. Thanh toán phí mentor (2 phương thức thanh toán)
 - Ngân hàng Vietinbank: Nguyễn Thị Linh/ 105003238502
 - Paypal: nguyelinhmon@gmail.com
 <br />Nội dung chuyển khoản: "Tên của bạn"_email(thay @ bằng dấu '.')_gói mentor bạn đăng kí
