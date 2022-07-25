@@ -16,7 +16,8 @@ caption:
 <br/>Sau khi mentee chuyển khoản phí và hoàn thành form đăng kí. 
 {:.list-inline}
 1. Gửi email confirm đến mentee và đặt lịch meeting qua google meet.
-2. Meeting đánh giá hồ sơ và tư vấn cho mentee
+2. Mentee gửi CV cho mentor ( nếu mentee muốn)
+3. Meeting đánh giá hồ sơ và tư vấn cho mentee
 
 **Cách thức đăng kí buổi tư vấn apply:**  
 {:.list-inline}
@@ -24,7 +25,7 @@ caption:
 - Ngân hàng Vietinbank: Nguyễn Thị Linh/ 105003238502
 - Paypal: nguyelinhmon@gmail.com
 <br />Nội dung chuyển khoản: "Tên của bạn"_email(thay @ bằng dấu '.')_gói mentor bạn đăng kí
-<br />Ví dụ mình là Linh Mon, email của mình là nguyenlinhmon@gmail.com, mình đăng kí mentor 1-1 thì mình sẽ để nội dung chuyển khoản là Mon_nguyenlinhmon.gmail.com_mentor11
+<br />Ví dụ mình là Linh Mon, email của mình là nguyenlinhmon@gmail.com, mình đăng kí tư vấn apply thì mình sẽ để nội dung chuyển khoản là Mon_nguyenlinhmon.gmail.com_Tuvan
 3. Hoàn thành form đăng kí. [Link form](https://forms.gle/vb5613wWEQbNrDnU6){:target="_blank"}
 
 **Phí của buổi tư vấn apply: $4/buổi**
