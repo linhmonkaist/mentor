@@ -23,7 +23,7 @@ en: &DEFAULT_EN
     list:
       - title: "Mentors"
         desc: "Đội ngũ mentor dày dặn kinh nghiệm, đã đậu học bổng toàn phần và đang theo học tại các trường đại học hàng đầu. "
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+        icon: fa-thin fa-intersection
       - title: "Alumni"
         desc: "Các mentee của team nhận được addmission từ các trường như KAIST, SNU, KU, Yonsei..."
         icon: fas fa-laptop
@@ -69,77 +69,76 @@ en: &DEFAULT_EN
     end: "Be Part <br> of Our <br> Story!"
 
   about:
-    title: "About Us"
-    text: "Jinchuriki team"
-    body: "Ai cũng là một jinchuriki, có trong mình một con “quái vật” đang ngủ yên, 
-    chỉ thử thách mới có thể đánh thức nó dậy. Vì vậy đừng ngại lao đầu vào thử thách, 
-    bạn mạnh mẽ hơn bạn nghĩ rất nhiều! 
-
-
-    Team Jinchuriki được thành lập với sứ mệnh hỗ trợ các bạn trẻ Việt Nam trong việc apply học bổng đi du học 
+    title: "Giới thiệu team Jinchuriki"
+    text: "Ai cũng là một jinchuriki, có trong mình một con “quái vật” đang ngủ yên, 
+    chỉ thử thách mới có thể đánh thức nó dậy.<br/> Vì vậy đừng ngại lao đầu vào thử thách, 
+    bạn mạnh mẽ hơn bạn nghĩ rất nhiều! "
+    body: "Team Jinchuriki được thành lập với sứ mệnh hỗ trợ các bạn trẻ Việt Nam trong việc apply học bổng đi du học 
     cũng như cung cấp các khóa học để trang bị những kỹ năng, năng lực ngoại ngữ cần thiết để các bạn trẻ tự tin 
     vươn mình ra biển lớn. 
     "
     section: about
-
-  clients:
-    section: clients
-    max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
-    list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
+  comment: >
+    clients:
+      section: clients
+      max-height: 100px
+      horizontal-scrolling: "" #"yes/no"
+      list:
+        - title: "envato"
+          url: https://github.com/raviriley/agency-jekyll-theme
+          logo: assets/img/clients/envato.jpg
+        - title: "designmodo"
+          url: https://github.com/raviriley/agency-jekyll-theme
+          logo: assets/img/clients/designmodo.jpg
+        - title: "themeforest"
+          url: https://github.com/raviriley/agency-jekyll-theme
+          logo: assets/img/clients/themeforest.jpg
+        - title: "Creative Market"
+          url: https://github.com/raviriley/agency-jekyll-theme
+          logo: assets/img/clients/creative-market.jpg
 
   team:
     title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    text: "Đội ngũ mentor hiện tại của team Jinchuriki"
+    subtext: Luôn là người thấu hiểu và khai phá tiềm năng của mentee. 
     section: team
     people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
-        image: assets/img/team/500x500.jpg
+      - name: "Linh Mon"
+        role: "Founder <br/> Undergraduate at KAIST <br/> Major: Computer Science"
+        image: assets/img/team/linhmon.png
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
+          - url: https://www.facebook.com/LinhMonKGSP
             icon: fab fa-facebook-f
-          - url: https://linkedin.com
+          - url: https://www.instagram.com/_linh_mon/
+            icon: fab fa-instagram
+          - url: https://www.youtube.com/linhmon
+            icon: fab fa-youtube
+          - url: https://mail.google.com/mail/u/1/?view=cm&fs=1&to=nguyenlinhmon@gmail.com&tf=1
+            icon: fa fa-envelope
+            target: "_blank"
+          - url: https://www.linkedin.com/in/nguyen-linh-8b4b4916b/
             icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
-        image: assets/img/team/2.jpg
+      - name: "Đỗ Hoàng Thế Phúc"
+        role: "Scholarship mentor <br/> Undergraduate at National Jeonbuk university <br/> Major: Division of Microbiology- 
+        Jimmy Carter International Cooperation"
+        image: assets/img/team/phuc.jpg
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
+          - url: https://mail.google.com/mail/u/1/?view=cm&fs=1&to=nguyenlinhmon@gmail.com&tf=1
+            icon: fa fa-envelope
+          - url: https://www.facebook.com/thephuc2001
             icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
-        image: assets/img/team/500x500.jpg
+      - name: "Vũ Ngân Giang"
+        role: "Scholarship mentor <br/> Undergraduate at Korea University <br/> Major: Business Administration"
+        image: assets/img/team/giang.jpg
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
+          - url: https://mail.google.com/mail/u/1/?view=cm&fs=1&to=nguyenlinhmon@gmail.com&tf=1
+            icon: fa fa-envelope
+          - url: https://www.facebook.com/gianggvu.03
             icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
 
   contact:
     title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    text: "Email: jinchuriki.program@gmail.com"
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
@@ -155,16 +154,17 @@ en: &DEFAULT_EN
   footer:
     legal: "Privacy Policy"
     social:
-      - url: https://twitter.com
-        icon: "fab fa-twitter"
-      - url: https://facebook.com
-        icon: "fab fa-facebook-f"
-      - url: https://linkedin.com
-        icon: "fab fa-linkedin-in"
-      - url: https://github.com/raviriley/agency-jekyll-theme
-        icon: "fab fa-github"
-      - url: https://instagram.com
-        icon: "fab fa-instagram"
+      - url: https://www.facebook.com/LinhMonKGSP
+        icon: fab fa-facebook-f
+      - url: https://www.instagram.com/_linh_mon/
+        icon: fab fa-instagram
+      - url: https://www.youtube.com/linhmon
+        icon: fab fa-youtube
+      - url: https://mail.google.com/mail/u/1/?view=cm&fs=1&to=nguyenlinhmon@gmail.com&tf=1
+        icon: fa fa-envelope
+        target: "_blank"
+      - url: https://www.linkedin.com/in/nguyen-linh-8b4b4916b/
+        icon: fab fa-linkedin-in
 en-US:
   <<: *DEFAULT_EN
 en-CA:
