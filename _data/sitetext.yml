@@ -14,22 +14,22 @@ en: &DEFAULT_EN
     title: Jinchuriki program
     text: Chương trình mentor học bổng
     button: Tell Me More
-    buttonlink: "#services"
+    buttonlink: "#portfolio"
 
   services:
     title: "Team Jinchuriki có gì?"
-    text: "Lorem ipsum"
+    text: "Team Jinchuriki luôn tự hào là những người khai phá tiềm năng và ủng hộ mentee nhiệt tình nhất trên con đường du học."
     section: services
     list:
       - title: "Mentors"
         desc: "Đội ngũ mentor dày dặn kinh nghiệm, đã đậu học bổng toàn phần và đang theo học tại các trường đại học hàng đầu. "
-        icon: fa-thin fa-intersection
+        icon: fas fa-chalkboard-teacher
       - title: "Alumni"
-        desc: "Các mentee của team nhận được addmission từ các trường như KAIST, SNU, KU, Yonsei..."
-        icon: fas fa-laptop
-      - title: "Hồ sơ"
-        desc: "Hướng dẫn làm hồ sơ chi tiết"
-        icon: fab fa-markdown
+        desc: "Các mentee của team nhận được học bổng/admission ở các bậc học khác nhau từ các trường đại học hàng đầu như KAIST, SNU, KU, Yonsei..."
+        icon: fas fa-graduation-cap
+      - title: "For mentee"
+        desc: "Các mentor sẽ là người đồng hành và giúp đỡ mentee trong việc apply học bổng với toàn bộ sự nhiệt tình, tận tâm và kinh nghiệm của mình."
+        icon: fas fa-award
 
   portfolio:
     title: "Các gói mentor"
@@ -39,34 +39,41 @@ en: &DEFAULT_EN
 
   timeline:
     title: "Timeline"
-    text: "Lorem ipsum timeline"
+    text: "Growing time of team"
     section: timeline
     # left is the default
     #start_align: "left"
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "Beginning- with Linh Mon"
+        year: "Mar 2020"
+        desc: "Chương trình mentor được do chính mình lập ra với một thành viên duy nhất. Mở đầu của chương trình mentor được đánh dấu bằng video 
+        [Hướng dẫn apply học bổng chính phủ Hàn Quốc hệ đại học](https://youtu.be/R5jTwgcLJL8)
+        do chính mình thực hiện vào tháng 3 năm 2020, ngay sau khi mình đến Hàn để bắt đầu cho hành trình du học. "
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "Thành tựu đầu tiên"
+        year: "Jan 2021"
+        desc: "Lần đầu tiên mentor cho đợt apply học bổng chính phủ Hàn Quốc hệ đại học năm 2021 với khóa mentee đầu tiên. Mình đã hỗ trợ thành công cho:
+        <br/>- 3 mentee đậu GKS-U 2021, 
+        <br/>-1 bạn đậu học bổng toàn phần của KAIST- trường đại học khoa học kĩ thuật hàng đầu Hàn Quốc
+        <br/>- 1 bạn đậu vào trường Seoul National University(SNU)- trường đại học rank 1 Hàn Quốc"
         image: assets/img/timeline/2.jpg
         alt:
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+      - title: "GKS-G 2021"
+        year: "Jul 2021"
+        desc: "Mình lại tiếp tục mentor cho các anh chị apply GKS-G 2021 và đã hỗ trợ thành công cho 2 mentee đậu học bổng GKS-G 2021."
         image: assets/img/timeline/3.jpg
         alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
+      - title: "Không ngừng phát triển <br/> Đi theo sứ mệnh"
+        year: "2021- nay"
+        desc: "Trên con đường giúp đỡ các bạn mentee apply học bổng, mình gặp được thêm nhiều cộng sự mới để cùng nhau phát triển và thực hiện sự mệnh của chương trình Jinchuriki. 
+        Team Jinchuriki cũng đã hỗ trợ được nhiều bạn mentee hơn apply vào nhiều học bổng hơn chứ không dừng lại ở học bổng chính phủ Hàn nữa. <br/> Mong rằng team sẽ còn phát triển hơn để
+        giúp đỡ nhiều bạn trẻ hơn nữa."
         image: assets/img/timeline/4.jpg
         alt:
         # you can enforce the alignment
         align: right
-    end: "Be Part <br> of Our <br> Story!"
+    end: "Be part <br> of our <br> story!"
 
   about:
     title: "Giới thiệu team Jinchuriki"
@@ -135,7 +142,43 @@ en: &DEFAULT_EN
             icon: fa fa-envelope
           - url: https://www.facebook.com/gianggvu.03
             icon: fab fa-facebook-f
-
+      - name: "Ngọ Thị Cúc"
+        role: "Scholarship mentor <br/> Graduate at Kyung Hee University <br/> Major: Korean Language & Literature"
+        image: assets/img/team/Cucngo.jpg
+        social:
+          - url: https://mail.google.com/mail/u/1/?view=cm&fs=1&to=nguyenlinhmon@gmail.com&tf=1
+            icon: fa fa-envelope
+          - url: https://www.facebook.com/gianggvu.03
+            icon: fab fa-facebook-f
+      - name: "Nguyễn Ngọc Mai"
+        role: "Scholarship mentor <br/> Undergraduate at KAIST <br/> Major: Computer Science"
+        image: assets/img/team/mai.jpg
+        social:
+          - url: https://mail.google.com/mail/u/1/?view=cm&fs=1&to=nguyenlinhmon@gmail.com&tf=1
+            icon: fa fa-envelope
+          - url: https://www.facebook.com/gianggvu.03
+            icon: fab fa-facebook-f
+  alumni:
+    title: "Our scholars- Hall of fame"
+    text: "Những mentee xuất sắc của team mentor"
+    subtext: Luôn là người thấu hiểu và khai phá tiềm năng của mentee. 
+    section: alumni
+    people:
+      - name: "Linh Mon"
+        role: "Founder <br/> Undergraduate at KAIST <br/> Major: Computer Science"
+        image: assets/img/team/linhmon.png
+        social:
+          - url: https://www.facebook.com/LinhMonKGSP
+            icon: fab fa-facebook-f
+          - url: https://www.instagram.com/_linh_mon/
+            icon: fab fa-instagram
+          - url: https://www.youtube.com/linhmon
+            icon: fab fa-youtube
+          - url: https://mail.google.com/mail/u/1/?view=cm&fs=1&to=nguyenlinhmon@gmail.com&tf=1
+            icon: fa fa-envelope
+            target: "_blank"
+          - url: https://www.linkedin.com/in/nguyen-linh-8b4b4916b/
+            icon: fab fa-linkedin-in
   contact:
     title: "Contact Us"
     text: "Email: jinchuriki.program@gmail.com"
@@ -294,6 +337,27 @@ es: &DEFAULT_ES
           - url: https://facebook.com
             icon: fab fa-facebook-f
           - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+  alumni:
+    title: "Our scholars- Hall of fame"
+    text: "Những mentee xuất sắc của team mentor"
+    subtext: Luôn là người thấu hiểu và khai phá tiềm năng của mentee. 
+    section: team
+    people:
+      - name: "Linh Mon"
+        role: "Founder <br/> Undergraduate at KAIST <br/> Major: Computer Science"
+        image: assets/img/team/linhmon.png
+        social:
+          - url: https://www.facebook.com/LinhMonKGSP
+            icon: fab fa-facebook-f
+          - url: https://www.instagram.com/_linh_mon/
+            icon: fab fa-instagram
+          - url: https://www.youtube.com/linhmon
+            icon: fab fa-youtube
+          - url: https://mail.google.com/mail/u/1/?view=cm&fs=1&to=nguyenlinhmon@gmail.com&tf=1
+            icon: fa fa-envelope
+            target: "_blank"
+          - url: https://www.linkedin.com/in/nguyen-linh-8b4b4916b/
             icon: fab fa-linkedin-in
 
   contact:

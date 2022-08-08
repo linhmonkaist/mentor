@@ -13,18 +13,20 @@ en: &DEFAULT_EN
   nav:
     - title: "About"
       section: about
-    - title: "Services"
+    - title: ""
       section: services
-    - title: "Portfolio"
+    - title: "Services"
       section: portfolio
     - title: "Timeline"
       section: timeline
     - title: "Team"
       section: team
+    - title: "Alumni"
+      section: alumni
     - title: "Contact"
       section: contact
-    - title: "Theme Source"
-      url: https://github.com/raviriley/agency-jekyll-theme/
+    #- title: "Theme Source"
+    #  url: https://github.com/raviriley/agency-jekyll-theme/
 en-US:
   <<: *DEFAULT_EN
 en-CA:
@@ -48,6 +50,8 @@ es: &DEFAULT_ES
       section: cronologia
     - title: "Equipo"
       section: equipo
+    - title: "Alumni"
+      section: alumni
     - title: "Contáctenos"
       section: contacto
     - title: "Fuente de la plantilla"
