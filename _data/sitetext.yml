@@ -136,7 +136,7 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
       - name: "Vũ Ngân Giang"
         role: "Scholarship mentor <br/> Undergraduate at Korea University <br/> Major: Business Administration"
-        image: assets/img/team/giang.jpg
+        image: assets/img/team/giang.JPG
         social:
           - url: https://mail.google.com/mail/u/1/?view=cm&fs=1&to=nguyenlinhmon@gmail.com&tf=1
             icon: fa fa-envelope
