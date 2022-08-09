@@ -148,15 +148,23 @@ en: &DEFAULT_EN
         social:
           - url: https://mail.google.com/mail/u/1/?view=cm&fs=1&to=nguyenlinhmon@gmail.com&tf=1
             icon: fa fa-envelope
-          - url: https://www.facebook.com/gianggvu.03
+          - url: https://www.facebook.com/Cuc.daisyulis1781998
             icon: fab fa-facebook-f
       - name: "Nguyễn Ngọc Mai"
-        role: "Scholarship mentor <br/> Undergraduate at KAIST <br/> Major: Computer Science"
+        role: "KAIST Scholarship mentor <br/> Undergraduate at KAIST <br/> Major: Computer Science"
         image: assets/img/team/mai.jpg
         social:
           - url: https://mail.google.com/mail/u/1/?view=cm&fs=1&to=nguyenlinhmon@gmail.com&tf=1
             icon: fa fa-envelope
-          - url: https://www.facebook.com/gianggvu.03
+          - url: https://www.facebook.com/mainguyen778
+            icon: fab fa-facebook-f
+      - name: "Đặng Thị Diệu Hiền"
+        role: "Scholarship mentor for Communication major<br/> Undergraduate at Hanyang University <br/> Major: Media Communication "
+        image: assets/img/team/hien.jpg
+        social:
+          - url: https://mail.google.com/mail/u/1/?view=cm&fs=1&to=nguyenlinhmon@gmail.com&tf=1
+            icon: fa fa-envelope
+          - url: https://www.facebook.com/merakihy
             icon: fab fa-facebook-f
   alumni:
     title: "Our scholars- Hall of fame"
