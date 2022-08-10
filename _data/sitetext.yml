@@ -169,24 +169,50 @@ en: &DEFAULT_EN
   alumni:
     title: "Our scholars- Hall of fame"
     text: "Những mentee xuất sắc của team mentor"
-    subtext: Luôn là người thấu hiểu và khai phá tiềm năng của mentee. 
+    subtext:  
     section: alumni
     people:
-      - name: "Linh Mon"
-        role: "Founder <br/> Undergraduate at KAIST <br/> Major: Computer Science"
-        image: assets/img/team/linhmon.png
-        social:
-          - url: https://www.facebook.com/LinhMonKGSP
-            icon: fab fa-facebook-f
-          - url: https://www.instagram.com/_linh_mon/
-            icon: fab fa-instagram
-          - url: https://www.youtube.com/linhmon
-            icon: fab fa-youtube
-          - url: https://mail.google.com/mail/u/1/?view=cm&fs=1&to=nguyenlinhmon@gmail.com&tf=1
-            icon: fa fa-envelope
-            target: "_blank"
-          - url: https://www.linkedin.com/in/nguyen-linh-8b4b4916b/
-            icon: fab fa-linkedin-in
+      - name: "Dương Thúy Nga"
+        role: "undergradute at SNU"
+        image: assets/img/alumni/nga.jpg
+      - name: "Đặng Thị Diệu Hiền"
+        role: "GKS-U 2021 <br/> Lời nhắn đến mentee tương lai: Your Only Limit Is Your Mind"
+        image: assets/img/alumni/hien.jpg
+      - name: "Mông Diễm Quỳnh"
+        role: "GKS-U 2021"
+        image: assets/img/alumni/none.jpg
+      - name: "Nguyễn Thị Hương Giang"
+        role: "GKS-U 2022"
+        image: assets/img/alumni/none.jpg
+      - name: "Nguyễn Khánh Ly"
+        role: "GKS-U 2022"
+        image: assets/img/alumni/none.jpg
+      - name: "Nguyễn Hoàng Liên"
+        role: "GKS-U 2022"
+        image: assets/img/alumni/none.jpg
+      - name: "Vũ Ngân Giang"
+        role: "GKS-U 2022 <br/> Trong hành trình chinh phục học bổng, việc không biết xuất phát từ đâu, không biết rẽ ngã nào cho đúng là điều không thể tránh khỏi. 
+        Sự bỡ ngỡ trong lần đầu tiên bước đi trên con đường ấy của mình đã hoàn toàn không còn nữa khi được chị Linh Mon và team Jinchuriki cùng đồng hành. Vì thế, 
+        mình cảm thấy rất biết ơn và may mắn khi được là một phần của team ❤️"
+        image: assets/img/alumni/giang.jpg
+      - name: "Hoàng Anh Thư"
+        role: "GKS-U 2022"
+        image: assets/img/alumni/none.jpg
+      - name: "Ngọ Thị Cúc"
+        role: "GKS-G 2022 <br/> “노력한 만큼 찬란한 성과가 기다리고 있다” <br/>Mình tin rằng, chỉ cần chúng ta chăm chỉ và nỗ lực, những thành quả tốt đẹp sẽ đang đợi ta ở phía trước."
+        image: assets/img/alumni/cuc.jpg
+      - name: "Phạm Hoàng Ân"
+        role: "GKS-G 2022"
+        image: assets/img/alumni/male.jpg
+      - name: "Đỗ Thùy Dung"
+        role: "GKS-G 2022"
+        image: assets/img/alumni/none.jpg
+      - name: "Hoàng Thanh Tuyền"
+        role: "GKS-G 2022"
+        image: assets/img/alumni/none.jpg
+      - name: "Trần Hồng Quyên"
+        role: "GKS-G 2022"
+        image: assets/img/alumni/none.jpg
   contact:
     title: "Contact Us"
     text: "Email: jinchuriki.program@gmail.com"
