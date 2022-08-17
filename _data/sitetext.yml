@@ -193,7 +193,10 @@ en: &DEFAULT_EN
       - name: "Vũ Ngân Giang"
         role: "GKS-U 2022 <br/> Trong hành trình chinh phục học bổng, việc không biết xuất phát từ đâu, không biết rẽ ngã nào cho đúng là điều không thể tránh khỏi. 
         Sự bỡ ngỡ trong lần đầu tiên bước đi trên con đường ấy của mình đã hoàn toàn không còn nữa khi được chị Linh Mon và team Jinchuriki cùng đồng hành. Vì thế, 
-        mình cảm thấy rất biết ơn và may mắn khi được là một phần của team ❤️"
+        mình cảm thấy rất biết ơn và may mắn khi được là một phần của team ❤️ <br/> Lời gửi đến các bạn mentee: Đối
+         với mình, sự nỗ lực của mỗi người sẽ tỉ lệ thuận với thành quả mà người đó nhận được. Không gì là không 
+         thể, kể cả câu chuyện apply học bổng cũng vậy. Bạn có thể thất bại lần 1, lần 2, nhưng nếu vẫn cố gắng, 
+         chắc chắn bạn sẽ đạt được mục tiêu của bản thân, mình tin là như vậy!"
         image: assets/img/alumni/giang.jpg
       - name: "Hoàng Anh Thư"
         role: "GKS-U 2022"
@@ -211,8 +214,13 @@ en: &DEFAULT_EN
         role: "GKS-G 2022"
         image: assets/img/alumni/none.jpg
       - name: "Trần Hồng Quyên"
-        role: "GKS-G 2022"
-        image: assets/img/alumni/none.jpg
+        role: "GKS-G 2022 <br/> Hành trình chinh phục thành công học bổng chính phủ Hàn Quốc của mình không thể 
+        không kể đến sự đồng hành của Linh và team Jinchuriki. Cảm ơn Linh và team đã giúp mình có được một sự 
+        chuẩn bị đầy đủ, kỹ lưỡng và luôn support mình trên chặng đường này ❤️❤️❤️ <br/> Mình cũng muốn gửi đến 
+        các bạn mentee tương lai một câu quote mình rất thích: “Người thực hiện được ước mơ không phải là người 
+        giỏi nhất, mà là người đến cuối vẫn không từ bỏ”. Vậy nên mình tin với sự đam mê, chân thành và kiên trì, 
+        chúng ta sẽ sớm đạt được học bổng thôi" 
+        image: assets/img/alumni/quyen.jpg
   contact:
     title: "Contact Us"
     text: "Email: jinchuriki.program@gmail.com"
