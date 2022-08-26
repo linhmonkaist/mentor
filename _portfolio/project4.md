@@ -4,7 +4,7 @@ title: Sửa study plan
 caption:
   title: Sửa kế hoạch học tập
   subtitle: Gói nhỏ trong mentor program
-  thumbnail: assets/img/portfolio/04-thumbnail.jpg
+  thumbnail: assets/img/portfolio/4.png
 ---
 Với gói sửa kế hoạch học tập, mentee sẽ được mentor sửa kế hoạch học tập của mentee thông qua cuộc gọi trên nền tảng google meet. Mentor sẽ nhận xét, đánh giá, chỉnh lỗi và gợi ý cho mentee để mentee có một kế hoạch học tập tốt hơn. 
 <br/> Thời lượng của một buổi sửa study plan sẽ kéo dài từ 30 phút -1 tiếng. 

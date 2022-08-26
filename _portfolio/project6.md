@@ -4,7 +4,7 @@ title: Phỏng vấn thử
 caption:
   title: Phỏng vấn thử
   subtitle: Gói nhỏ trong mentor program
-  thumbnail: assets/img/portfolio/04-thumbnail.jpg
+  thumbnail: assets/img/portfolio/6.png
 ---
 Với gói phỏng vấn thử(mock interview), mentee sẽ được có một buổi phỏng vấn cùng với mentor thông qua cuộc gọi trên nền tảng google meet. Mentor sẽ đóng vai là hội đồng tuyển chọn, phỏng vấn mentee. Sau đó, dựa vào câu trả lời của mentee để nhận xét, đánh giá, chỉnh lỗi và gợi ý cho mentee để mentee có một buổi phỏng vấn tốt hơn trong tương lai. 
 <br/> Thời lượng của một buổi phỏng vấn thử sẽ kéo dài từ 30 phút -1 tiếng. 

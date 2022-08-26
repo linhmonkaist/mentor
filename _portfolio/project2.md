@@ -7,7 +7,7 @@ title: Tư vấn nộp học bổng
 caption:
   title: Tư vấn apply
   subtitle: Gói nhỏ trong mentor program
-  thumbnail: assets/img/portfolio/02-thumbnail.jpg
+  thumbnail: assets/img/portfolio/2.png
 ---
  Buổi tư vấn apply sẽ là buổi nói chuyện giữa mentor và mentee nhằm trả lời các thắc mắc của mentee liên quan đến việc apply học bổng. Tư vấn cách làm đẹp hồ sơ, đánh giá hồ sơ, chia sẻ kinh nghiệm apply, cuộc sống ở Hàn Quốc, kinh nghiệm ôn thi TOPIK...v.v
  <br />Nội dung của buổi nói chuyện sẽ hoàn toàn phụ thuộc vào những điều mentee mong muốn được giải đáp. Thời lượng sẽ kéo dài khoảng 30 phút. 

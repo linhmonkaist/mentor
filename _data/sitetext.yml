@@ -57,7 +57,7 @@ en: &DEFAULT_EN
         <br/>- 3 mentee đậu GKS-U 2021, 
         <br/>-1 bạn đậu học bổng toàn phần của KAIST- trường đại học khoa học kĩ thuật hàng đầu Hàn Quốc
         <br/>- 1 bạn đậu vào trường Seoul National University(SNU)- trường đại học rank 1 Hàn Quốc"
-        image: assets/img/timeline/2.jpg
+        image: assets/img/timeline/first.png
         alt:
       - title: "GKS-G 2021"
         year: "Jul 2021"
@@ -172,47 +172,6 @@ en: &DEFAULT_EN
     subtext:  
     section: alumni
     people:
-      - name: "Dương Thúy Nga"
-        role: "undergradute at SNU"
-        image: assets/img/alumni/nga.jpg
-      - name: "Đặng Thị Diệu Hiền"
-        role: "GKS-U 2021 <br/> Lời nhắn đến mentee tương lai: Your Only Limit Is Your Mind"
-        image: assets/img/alumni/hien.jpg
-      - name: "Mông Diễm Quỳnh"
-        role: "GKS-U 2021"
-        image: assets/img/alumni/none.jpg
-      - name: "Nguyễn Thị Hương Giang"
-        role: "GKS-U 2022"
-        image: assets/img/alumni/none.jpg
-      - name: "Nguyễn Khánh Ly"
-        role: "GKS-U 2022"
-        image: assets/img/alumni/none.jpg
-      - name: "Nguyễn Hoàng Liên"
-        role: "GKS-U 2022"
-        image: assets/img/alumni/none.jpg
-      - name: "Vũ Ngân Giang"
-        role: "GKS-U 2022 <br/> Trong hành trình chinh phục học bổng, việc không biết xuất phát từ đâu, không biết rẽ ngã nào cho đúng là điều không thể tránh khỏi. 
-        Sự bỡ ngỡ trong lần đầu tiên bước đi trên con đường ấy của mình đã hoàn toàn không còn nữa khi được chị Linh Mon và team Jinchuriki cùng đồng hành. Vì thế, 
-        mình cảm thấy rất biết ơn và may mắn khi được là một phần của team ❤️ <br/> Lời gửi đến các bạn mentee: Đối
-         với mình, sự nỗ lực của mỗi người sẽ tỉ lệ thuận với thành quả mà người đó nhận được. Không gì là không 
-         thể, kể cả câu chuyện apply học bổng cũng vậy. Bạn có thể thất bại lần 1, lần 2, nhưng nếu vẫn cố gắng, 
-         chắc chắn bạn sẽ đạt được mục tiêu của bản thân, mình tin là như vậy!"
-        image: assets/img/alumni/giang.jpg
-      - name: "Hoàng Anh Thư"
-        role: "GKS-U 2022"
-        image: assets/img/alumni/none.jpg
-      - name: "Ngọ Thị Cúc"
-        role: "GKS-G 2022 <br/> “노력한 만큼 찬란한 성과가 기다리고 있다” <br/>Mình tin rằng, chỉ cần chúng ta chăm chỉ và nỗ lực, những thành quả tốt đẹp sẽ đang đợi ta ở phía trước."
-        image: assets/img/alumni/cuc.jpg
-      - name: "Phạm Hoàng Ân"
-        role: "GKS-G 2022"
-        image: assets/img/alumni/male.jpg
-      - name: "Đỗ Thùy Dung"
-        role: "GKS-G 2022"
-        image: assets/img/alumni/none.jpg
-      - name: "Hoàng Thanh Tuyền"
-        role: "GKS-G 2022"
-        image: assets/img/alumni/none.jpg
       - name: "Trần Hồng Quyên"
         role: "GKS-G 2022 <br/> Hành trình chinh phục thành công học bổng chính phủ Hàn Quốc của mình không thể 
         không kể đến sự đồng hành của Linh và team Jinchuriki. Cảm ơn Linh và team đã giúp mình có được một sự 
@@ -221,6 +180,48 @@ en: &DEFAULT_EN
         giỏi nhất, mà là người đến cuối vẫn không từ bỏ”. Vậy nên mình tin với sự đam mê, chân thành và kiên trì, 
         chúng ta sẽ sớm đạt được học bổng thôi" 
         image: assets/img/alumni/quyen.jpg
+      - name: "Vũ Ngân Giang"
+        role: "GKS-U 2022 <br/> Trong hành trình chinh phục học bổng, việc không biết xuất phát từ đâu, không biết rẽ ngã nào cho đúng là điều không thể tránh khỏi. 
+        Sự bỡ ngỡ trong lần đầu tiên bước đi trên con đường ấy của mình đã hoàn toàn không còn nữa khi được chị Linh Mon và team Jinchuriki cùng đồng hành. Vì thế, 
+        mình cảm thấy rất biết ơn và may mắn khi được là một phần của team ❤️ <br/> Lời gửi đến các bạn mentee: Đối
+         với mình, sự nỗ lực của mỗi người sẽ tỉ lệ thuận với thành quả mà người đó nhận được. Không gì là không 
+         thể, kể cả câu chuyện apply học bổng cũng vậy. Bạn có thể thất bại lần 1, lần 2, nhưng nếu vẫn cố gắng, 
+         chắc chắn bạn sẽ đạt được mục tiêu của bản thân, mình tin là như vậy!"
+        image: assets/img/alumni/giang.jpg
+      - name: "Ngọ Thị Cúc"
+        role: "GKS-G 2022 <br/> “노력한 만큼 찬란한 성과가 기다리고 있다” <br/>Mình tin rằng, chỉ cần chúng ta chăm chỉ và nỗ lực, những thành quả tốt đẹp sẽ đang đợi ta ở phía trước."
+        image: assets/img/alumni/cuc.jpg
+      - name: "Đặng Thị Diệu Hiền"
+        role: "GKS-U 2021 <br/> Lời nhắn đến mentee tương lai: Your Only Limit Is Your Mind"
+        image: assets/img/alumni/hien.jpg
+      - name: "Dương Thúy Nga"
+        role: "undergradute at SNU"
+        image: assets/img/alumni/nga.jpg
+      - name: "Alumni GKS-U 2021"
+        role: "Undergraduate at Yonsei University"
+        image: assets/img/alumni/none.jpg
+      - name: "Alumni GKS-U 2021"
+        role: "Undergraduate at Kangwon national university"
+        image: assets/img/alumni/none.jpg
+      - name: "Alumni GKS-U 2022" #Nguyễn Khánh Ly
+        role: "Kyung Hee University"
+        image: assets/img/alumni/none.jpg
+      - name: "Nguyễn Hoàng Liên"
+        role: "GKS-U 2022"
+        image: assets/img/alumni/none.jpg
+      - name: "Alumni GKS-U 2022" #Hoàng Anh Thư
+        role: "Sunmoon University"
+        image: assets/img/alumni/none.jpg
+      - name: "Alumni GKS-G 2022" #Hoàng Ân
+        role: "Sungkyungkwan University"
+        image: assets/img/alumni/male.jpg
+      - name: "Alumni GKS-G 2022" #Thùy Dung
+        role: "Pusan National Univeristy"
+        image: assets/img/alumni/none.jpg
+      - name: "Alumni GKS-G 2022" #thanh Tuyền
+        role: "Sungkyungkwan University"
+        image: assets/img/alumni/none.jpg
+
   contact:
     title: "Contact Us"
     text: "Email: jinchuriki.program@gmail.com"

@@ -7,9 +7,14 @@ title: Chương trình mentor 1:1
 caption:
   title: Mentor 1:1
   subtitle: Full mentor program
-  thumbnail: assets/img/portfolio/01-thumbnail.jpg
+  thumbnail: assets/img/portfolio/1.png
 ---
-Với chương trình mentor 1:1, mentee sẽ được đánh giá profile, đánh giá trường mentee chọn, sửa thư giới thiệu, sửa bài luận, study plan... (không giới hạn số lần). Ngoài việc sửa bài cho mentee, mentor cũng sẽ chuẩn bị tài liệu phù hợp với từng giai đoạn viết bài và làm hồ sơ của mentee. Mentee sẽ được hỗ trợ trong quá trình apply từ lúc mentee bắt đầu chương trình mentor 1-1 đến lúc có kết quả.
+**Điều gì đang chờ đón mentee khi tham gia chương trình mentor 1:1 ?**
+{:.list-inline}
+1. Mentee sẽ được đánh giá profile, đánh giá trường mentee chọn, sửa thư giới thiệu, sửa bài luận, study plan... (không giới hạn số lần).
+2. Mentee sẽ được tiếp cận với nguồn tài liệu do mentor chọn lọc và chuẩn bị theo từng giai đoạn chuẩn bị hồ sơ của mentee. 
+3. Mentee sẽ dễ dàng nhận được lời khuyên, được kết nối với các mentor/alumni có cùng chuyên ngành hoặc cùng trường của mentee mong muốn. 
+4. Mentee sẽ được đội ngũ mentor hỗ trợ trong quá trình apply từ lúc bắt đầu chương trình mentor đến lúc có kết quả chính thức.
 
 **Lộ trình của chương trình mentor 1:1:** 
 <br />Sau khi mentee chuyển khoản phí và hoàn thành form đăng kí. 
@@ -18,7 +23,7 @@ Với chương trình mentor 1:1, mentee sẽ được đánh giá profile, đá
 2. Meeting thảo luận, giải đáp thắc mắc, đánh giá profile và tư vấn chọn trường phù hợp cho mentee.
 3. Cùng mentee lên timeline cho việc viết bài luận, study plan, mock interview... và thời gian chuẩn bị giấy tờ apply.
 4. Gửi tài liệu cho mentee
-5. Hẹn lịch sửa các bài essay.
+5. Hẹn lịch sửa các bài essay và gửi tài liệu hỗ trợ cho mentee. 
 6. Trước ngày phỏng vấn thử, gửi tài liệu mock interview. 
 7. Thực hiện phỏng vấn thử cùng team mentor. 
 8. Mentee thông báo kết quả cho mentor. 
@@ -29,8 +34,8 @@ Với chương trình mentor 1:1, mentee sẽ được đánh giá profile, đá
 2. Thanh toán phí mentor (2 phương thức thanh toán)
 - Ngân hàng Vietinbank: Nguyễn Thị Linh/ 105003238502
 - Paypal: nguyelinhmon@gmail.com
-<br />Nội dung chuyển khoản: "Tên của bạn"_email(thay @ bằng dấu '.')_gói mentor bạn đăng kí
-<br />Ví dụ mình là Linh Mon, email của mình là nguyenlinhmon@gmail.com, mình đăng kí mentor 1-1 thì mình sẽ để nội dung chuyển khoản là Mon_nguyenlinhmon.gmail.com_mentor11
+<br />Nội dung chuyển khoản: email(thay @ bằng dấu '.') gói mentor bạn đăng kí
+<br />Ví dụ email của mình là nguyenlinhmon@gmail.com, mình đăng kí mentor 1-1 thì mình sẽ để nội dung chuyển khoản là nguyenlinhmon.gmail.com mentor11
 3. Hoàn thành form đăng kí. [Link form](https://forms.gle/vb5613wWEQbNrDnU6){:target="_blank"}
 
 <style>

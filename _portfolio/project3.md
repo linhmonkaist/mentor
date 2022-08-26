@@ -4,7 +4,7 @@ title: Sửa bài luận
 caption:
   title: Sửa bài luận
   subtitle: Gói nhỏ trong mentor program
-  thumbnail: assets/img/portfolio/03-thumbnail.jpg
+  thumbnail: assets/img/portfolio/3.png
 ---
 Với gói sửa bài luận, mentee sẽ được mentor sửa bài luận của mentee thông qua cuộc gọi trên nền tảng google meet. Mentor sẽ nhận xét, đánh giá, chỉnh lỗi và gợi ý cho mentee để mentee có một bài luận tốt hơn. 
 <br/> Thời lượng của một buổi sửa bài sẽ kéo dài từ 30 phút -1 tiếng. 

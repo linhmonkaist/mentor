@@ -4,7 +4,7 @@ title: Sửa thư giới thiệu
 caption:
   title: Sửa thư giới thiệu
   subtitle: Gói nhỏ trong mentor program
-  thumbnail: assets/img/portfolio/04-thumbnail.jpg
+  thumbnail: assets/img/portfolio/5.png
 ---
 Với gói sửa thư giới thiệu, mentee sẽ được mentor sửa thư giới thiệu của mentee thông qua cuộc gọi trên nền tảng google meet. Mentor sẽ nhận xét, đánh giá, chỉnh lỗi và gợi ý cho mentee để mentee có một thư giới thiệu tốt hơn. 
 <br/> Thời lượng của một buổi sửa thư giới thiệu sẽ kéo dài từ 30 phút -1 tiếng. 
