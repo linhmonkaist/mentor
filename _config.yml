@@ -17,10 +17,10 @@ remote_theme: raviriley/agency-jekyll-theme
 url    : "/mentor" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/agency-jekyll-theme-starter" # the subpath of your site, e.g. /blog
 
-title      : "Jinchuriki program"
-email      : "nguyenlinhmon@gmail.com" #this is also the email contact forms will go to
-description: "Chương trình mentor học bổng toàn thế giới"
-author     : "Linh Mon- Founder of Jinchuriki program"
+title      : "SEM Scholars"
+email      : "semscholars.team@gmail.com" #this is also the email contact forms will go to
+description: "SEM Scholars- Scholarship Exploring with Mentors"
+author     : "Linh Mon- Founder of SEM Scholars "
 #logo:     #optional, defaults to site title
    #path: assets\img\j.png
    #height: 60px #height in px, defaults to 52px

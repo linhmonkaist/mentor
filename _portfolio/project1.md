@@ -30,12 +30,9 @@ caption:
 
 **Cách thức đăng kí chương trình mentor:**  
 {:.list-inline}
-1. Gửi CV của bạn qua email: nguyenlinhmon@gmail.com cho team Jinchuriki đánh giá trước.
-2. Thanh toán phí mentor (2 phương thức thanh toán)
-- Ngân hàng Vietinbank: Nguyễn Thị Linh/ 105003238502
-- Paypal: nguyelinhmon@gmail.com
-<br />Nội dung chuyển khoản: email(thay @ bằng dấu '.') gói mentor bạn đăng kí
-<br />Ví dụ email của mình là nguyenlinhmon@gmail.com, mình đăng kí mentor 1-1 thì mình sẽ để nội dung chuyển khoản là nguyenlinhmon.gmail.com mentor11
+1. Gửi CV của bạn qua email: nguyenlinhmon@gmail.com cho team SEM Scholars đánh giá trước.
+2. Thanh toán phí mentor 
+<br/> Chi tiết phương thức thanh toán sẽ có ở form đăng kí. 
 3. Hoàn thành form đăng kí. [Link form](https://forms.gle/vb5613wWEQbNrDnU6){:target="_blank"}
 
 <style>

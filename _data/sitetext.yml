@@ -11,14 +11,14 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Jinchuriki program
-    text: Chương trình mentor học bổng
+    title: SEM Scholars
+    text: Scholarship Exploring with Mentors
     button: Tell Me More
     buttonlink: "#portfolio"
 
   services:
-    title: "Team Jinchuriki có gì?"
-    text: "Team Jinchuriki luôn tự hào là những người khai phá tiềm năng và ủng hộ mentee nhiệt tình nhất trên con đường du học."
+    title: "SEM Scholars có gì?"
+    text: "SEM Scholars luôn tự hào là đội ngũ mentor biết cách khai phá tiềm năng và ủng hộ mentee nhiệt tình nhất trên con đường du học."
     section: services
     list:
       - title: "Mentors"
@@ -33,7 +33,7 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "Các gói mentor"
-    text: "Chương trình mentor được chính team Jinchuriki xây dựng và phát triển"
+    text: "Chương trình mentor được chính team SEM Scholars xây dựng và phát triển"
     section: portfolio
     closebutton: "Close"
 
@@ -46,8 +46,8 @@ en: &DEFAULT_EN
     events:
       - title: "Beginning- with Linh Mon"
         year: "Mar 2020"
-        desc: "Chương trình mentor được do chính mình lập ra với một thành viên duy nhất. Mở đầu của chương trình mentor được đánh dấu bằng video 
-        [Hướng dẫn apply học bổng chính phủ Hàn Quốc hệ đại học](https://youtu.be/R5jTwgcLJL8)
+        desc: "Chương trình mentor được do chính mình lập ra với một thành viên duy nhất mang tên Jinchuriki program. Mở đầu của chương trình mentor được đánh dấu 
+        bằng video [Hướng dẫn apply học bổng chính phủ Hàn Quốc hệ đại học](https://youtu.be/R5jTwgcLJL8)
         do chính mình thực hiện vào tháng 3 năm 2020, ngay sau khi mình đến Hàn để bắt đầu cho hành trình du học. "
         image: assets/img/timeline/1.jpg
         alt:
@@ -66,9 +66,9 @@ en: &DEFAULT_EN
         alt: image alt text
       - title: "Không ngừng phát triển <br/> Đi theo sứ mệnh"
         year: "2021- nay"
-        desc: "Trên con đường giúp đỡ các bạn mentee apply học bổng, mình gặp được thêm nhiều cộng sự mới để cùng nhau phát triển và thực hiện sự mệnh của chương trình Jinchuriki. 
-        Team Jinchuriki cũng đã hỗ trợ được nhiều bạn mentee hơn apply vào nhiều học bổng hơn chứ không dừng lại ở học bổng chính phủ Hàn nữa. <br/> Mong rằng team sẽ còn phát triển hơn để
-        giúp đỡ nhiều bạn trẻ hơn nữa."
+        desc: "Trên con đường giúp đỡ các bạn mentee apply học bổng, mình gặp được thêm nhiều cộng sự mới để cùng nhau phát triển và thực hiện sự mệnh của chương trình
+        mentor. Team được đổi tên thành SEM Scholars và đã hỗ trợ được nhiều bạn mentee hơn apply vào nhiều học bổng hơn chứ không chỉ dừng lại ở học bổng chính phủ Hàn. 
+        <br/> Mong rằng team sẽ còn phát triển hơn để giúp đỡ nhiều bạn trẻ hơn nữa."
         image: assets/img/timeline/4.jpg
         alt:
         # you can enforce the alignment
@@ -76,12 +76,12 @@ en: &DEFAULT_EN
     end: "Be part <br> of our <br> story!"
 
   about:
-    title: "Giới thiệu team Jinchuriki"
-    text: "Ai cũng là một jinchuriki, có trong mình một con “quái vật” đang ngủ yên, 
+    title: "Team SEM Scholars"
+    text: "Ai cũng có trong mình một con “quái vật” đang ngủ yên, 
     chỉ thử thách mới có thể đánh thức nó dậy.<br/> Vì vậy đừng ngại lao đầu vào thử thách, 
     bạn mạnh mẽ hơn bạn nghĩ rất nhiều! "
-    body: "Team Jinchuriki được thành lập với sứ mệnh hỗ trợ các bạn trẻ Việt Nam trong việc apply học bổng đi du học 
-    cũng như cung cấp các khóa học để trang bị những kỹ năng, năng lực ngoại ngữ cần thiết để các bạn trẻ tự tin 
+    body: "Từ SEM chính là viết tắt của Scholarship Exploring with Mentors. SEM Scholars được thành lập với sứ mệnh hỗ trợ các bạn trẻ Việt Nam trong việc apply học 
+    bổng đi du học cũng như cung cấp các khóa học để trang bị những kỹ năng, năng lực ngoại ngữ cần thiết để các bạn trẻ tự tin 
     vươn mình ra biển lớn. 
     "
     section: about
@@ -106,7 +106,7 @@ en: &DEFAULT_EN
 
   team:
     title: "OUR AMAZING TEAM"
-    text: "Đội ngũ mentor hiện tại của team Jinchuriki"
+    text: "Đội ngũ mentor hiện tại của team SEM Scholars"
     subtext: Luôn là người thấu hiểu và khai phá tiềm năng của mentee. 
     section: team
     people:
@@ -120,7 +120,7 @@ en: &DEFAULT_EN
             icon: fab fa-instagram
           - url: https://www.youtube.com/linhmon
             icon: fab fa-youtube
-          - url: https://mail.google.com/mail/u/1/?view=cm&fs=1&to=nguyenlinhmon@gmail.com&tf=1
+          - url: https://mail.google.com/mail/u/1/?view=cm&fs=1&to=semscholars.team@gmail.com&tf=1
             icon: fa fa-envelope
             target: "_blank"
           - url: https://www.linkedin.com/in/nguyen-linh-8b4b4916b/
@@ -130,7 +130,7 @@ en: &DEFAULT_EN
         Jimmy Carter International Cooperation"
         image: assets/img/team/phuc.jpg
         social:
-          - url: https://mail.google.com/mail/u/1/?view=cm&fs=1&to=nguyenlinhmon@gmail.com&tf=1
+          - url: https://mail.google.com/mail/u/1/?view=cm&fs=1&to=semscholars.team@gmail.com&tf=1
             icon: fa fa-envelope
           - url: https://www.facebook.com/thephuc2001
             icon: fab fa-facebook-f
@@ -138,7 +138,7 @@ en: &DEFAULT_EN
         role: "Scholarship mentor <br/> Undergraduate at Korea University <br/> Major: Business Administration"
         image: assets/img/team/giang.JPG
         social:
-          - url: https://mail.google.com/mail/u/1/?view=cm&fs=1&to=nguyenlinhmon@gmail.com&tf=1
+          - url: https://mail.google.com/mail/u/1/?view=cm&fs=1&to=semscholars.team@gmail.com&tf=1
             icon: fa fa-envelope
           - url: https://www.facebook.com/gianggvu.03
             icon: fab fa-facebook-f
@@ -146,7 +146,7 @@ en: &DEFAULT_EN
         role: "Scholarship mentor <br/> Graduate at Kyung Hee University <br/> Major: Korean Language & Literature"
         image: assets/img/team/Cucngo.jpg
         social:
-          - url: https://mail.google.com/mail/u/1/?view=cm&fs=1&to=nguyenlinhmon@gmail.com&tf=1
+          - url: https://mail.google.com/mail/u/1/?view=cm&fs=1&to=semscholars.team@gmail.com&tf=1
             icon: fa fa-envelope
           - url: https://www.facebook.com/Cuc.daisyulis1781998
             icon: fab fa-facebook-f
@@ -154,7 +154,7 @@ en: &DEFAULT_EN
         role: "KAIST Scholarship mentor <br/> Undergraduate at KAIST <br/> Major: Computer Science"
         image: assets/img/team/mai.jpg
         social:
-          - url: https://mail.google.com/mail/u/1/?view=cm&fs=1&to=nguyenlinhmon@gmail.com&tf=1
+          - url: https://mail.google.com/mail/u/1/?view=cm&fs=1&to=semscholars.team@gmail.com&tf=1
             icon: fa fa-envelope
           - url: https://www.facebook.com/mainguyen778
             icon: fab fa-facebook-f
@@ -162,7 +162,7 @@ en: &DEFAULT_EN
         role: "Scholarship mentor for Communication major<br/> Undergraduate at Hanyang University <br/> Major: Media Communication "
         image: assets/img/team/hien.jpg
         social:
-          - url: https://mail.google.com/mail/u/1/?view=cm&fs=1&to=nguyenlinhmon@gmail.com&tf=1
+          - url: https://mail.google.com/mail/u/1/?view=cm&fs=1&to=semscholars.team@gmail.com&tf=1
             icon: fa fa-envelope
           - url: https://www.facebook.com/merakihy
             icon: fab fa-facebook-f
@@ -174,7 +174,7 @@ en: &DEFAULT_EN
     people:
       - name: "Trần Hồng Quyên"
         role: "GKS-G 2022 <br/> Hành trình chinh phục thành công học bổng chính phủ Hàn Quốc của mình không thể 
-        không kể đến sự đồng hành của Linh và team Jinchuriki. Cảm ơn Linh và team đã giúp mình có được một sự 
+        không kể đến sự đồng hành của Linh và team SEM Scholars. Cảm ơn Linh và team đã giúp mình có được một sự 
         chuẩn bị đầy đủ, kỹ lưỡng và luôn support mình trên chặng đường này ❤️❤️❤️ <br/> Mình cũng muốn gửi đến 
         các bạn mentee tương lai một câu quote mình rất thích: “Người thực hiện được ước mơ không phải là người 
         giỏi nhất, mà là người đến cuối vẫn không từ bỏ”. Vậy nên mình tin với sự đam mê, chân thành và kiên trì, 
@@ -188,6 +188,13 @@ en: &DEFAULT_EN
          thể, kể cả câu chuyện apply học bổng cũng vậy. Bạn có thể thất bại lần 1, lần 2, nhưng nếu vẫn cố gắng, 
          chắc chắn bạn sẽ đạt được mục tiêu của bản thân, mình tin là như vậy!"
         image: assets/img/alumni/giang.jpg
+        
+      - name: "Hoàng Ân GKS-G 2022" #Hoàng Ân
+        role: "Sungkyungkwan University </br> Trong quá trình thực hiện bất cứ một dự định hay kế hoạch nào, chúng ta luôn cần những người đồng hành, đặc biệt là 
+              những người có kinh nghiệm và có khả năng truyền được cảm hứng để chúng ta có thể hoàn thành được mục tiêu đề ra. Cảm ơn chị Linh và Jinchuriki đã 
+              mang đến nguồn năng lượng đó cho mình trong suốt quá trình gấp rút, chỉ vỏn vẹn có 2 tuần, chuẩn bị cho GKS-G 2022."
+        image: assets/img/alumni/an.jpg
+      
       - name: "Ngọ Thị Cúc"
         role: "GKS-G 2022 <br/> “노력한 만큼 찬란한 성과가 기다리고 있다” <br/>Mình tin rằng, chỉ cần chúng ta chăm chỉ và nỗ lực, những thành quả tốt đẹp sẽ đang đợi ta ở phía trước."
         image: assets/img/alumni/cuc.jpg
@@ -212,9 +219,6 @@ en: &DEFAULT_EN
       - name: "Alumni GKS-U 2022" #Hoàng Anh Thư
         role: "Sunmoon University"
         image: assets/img/alumni/none.jpg
-      - name: "Alumni GKS-G 2022" #Hoàng Ân
-        role: "Sungkyungkwan University"
-        image: assets/img/alumni/male.jpg
       - name: "Alumni GKS-G 2022" #Thùy Dung
         role: "Pusan National Univeristy"
         image: assets/img/alumni/none.jpg
@@ -224,7 +228,7 @@ en: &DEFAULT_EN
 
   contact:
     title: "Contact Us"
-    text: "Email: jinchuriki.program@gmail.com"
+    text: "Email: semscholars.team@gmail.com"
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
@@ -246,7 +250,7 @@ en: &DEFAULT_EN
         icon: fab fa-instagram
       - url: https://www.youtube.com/linhmon
         icon: fab fa-youtube
-      - url: https://mail.google.com/mail/u/1/?view=cm&fs=1&to=nguyenlinhmon@gmail.com&tf=1
+      - url: https://mail.google.com/mail/u/1/?view=cm&fs=1&to=semscholars.team@gmail.com&tf=1
         icon: fa fa-envelope
         target: "_blank"
       - url: https://www.linkedin.com/in/nguyen-linh-8b4b4916b/
