@@ -35,7 +35,7 @@ en: &DEFAULT_EN
     title: "Các gói mentor"
     text: "Chương trình mentor được chính team SEM Scholars xây dựng và phát triển"
     section: portfolio
-    closebutton: "Close"
+    closebutton: "Đăng ký ngay"
 
   timeline:
     title: "Timeline"
@@ -106,13 +106,13 @@ en: &DEFAULT_EN
 
   team:
     title: "OUR AMAZING TEAM"
-    text: "Đội ngũ mentor hiện tại của team SEM Scholars"
+    text: "Đội ngũ mentor của team SEM Scholars"
     subtext: Luôn là người thấu hiểu và khai phá tiềm năng của mentee. 
     section: team
     people:
       - name: "Linh Mon"
         role: "Founder <br/> Undergraduate at KAIST <br/> Major: Computer Science"
-        image: assets/img/team/linhmon.png
+        image: assets/img/team/linhmon.jpg
         social:
           - url: https://www.facebook.com/LinhMonKGSP
             icon: fab fa-facebook-f
@@ -228,7 +228,11 @@ en: &DEFAULT_EN
 
   contact:
     title: "Contact Us"
-    text: "Email: semscholars.team@gmail.com"
+    text: "Email: semscholars.team@gmail.com </br> Facebook page: https://www.facebook.com/LinhMonKGSP Linh Mon 
+    </br> Instagram: <a>_linh_mon </a> (https://www.instagram.com/_linh_mon/)
+    </br> Youtube: [Linh Mon](https://www.youtube.com/linhmon) 
+    "
+    
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."

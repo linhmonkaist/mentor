@@ -17,10 +17,10 @@
   &:hover {
     background-color: darken($primary, 7.5%) !important;
     border-color: darken($primary, 7.5%) !important;
-    color: white;
+    color: rgb(186, 3, 56);
   }
   &:active,
   &:focus {
-    box-shadow: 0 0 0 0.2rem rgba(254, 209, 55, 0.5) !important;
+    box-shadow: 0 0 0 0.2rem rgba(186, 3, 56, 1) !important;
   }
 }
