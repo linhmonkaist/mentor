@@ -45,24 +45,23 @@ table, th, td {
 <table style="width: 100%">
   <tr>
     <td style="width: 30%"> </td>
-    <td>Single package</td>
-    <td>Double package</td>
+    <td style="text-align: center; vertical-align: middle;">Single package</td>
+    <td style="text-align: center; vertical-align: middle;">Double package</td>
+  </tr>
+    <tr>
+    <td style="text-align: center; vertical-align: middle;">Số lượng học bổng</td>
+    <td style="text-align: center; vertical-align: middle;">1</td>
+    <td style="text-align: center; vertical-align: middle;">2</td>
   </tr>
   <tr>
-    <td>Phí mentor</td>
-    <td>$280</td>
-    <td>$500</td>
-  </tr>
-  <tr>
-    <td>Số lượng học bổng</td>
-    <td>1</td>
-    <td>2</td>
-  </tr>
-  
+    <td style="text-align: center; vertical-align: middle;">Phí mentor</td>
+    <td style="text-align: center; vertical-align: middle;">$300</td>
+    <td style="text-align: center; vertical-align: middle;">$550</td>
+  </tr>  
 </table>
 
-{:.list-inline}
-- Date: July 2022
+<!-- {:.list-inline}
+- Date: July 2022 -->
 
 
 

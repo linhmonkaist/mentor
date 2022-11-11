@@ -25,7 +25,7 @@ caption:
   <br/> Chi tiết phương thức thanh toán sẽ có ở form đăng kí. 
 2. Hoàn thành form đăng kí. [Link form](https://forms.gle/vb5613wWEQbNrDnU6){:target="_blank"}
 
-**Phí của buổi tư vấn apply: $4/buổi**
+**Phí của buổi tư vấn apply: $5/buổi**
 
 {:.list-inline}
 - Date: July 2022
