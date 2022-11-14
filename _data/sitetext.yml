@@ -132,7 +132,7 @@ en: &DEFAULT_EN
         social:
           - url: https://mail.google.com/mail/u/1/?view=cm&fs=1&to=semscholars.team@gmail.com&tf=1
             icon: fa fa-envelope
-          - url: https://www.facebook.com/thephuc2001
+          - url: https://www.facebook.com/SEMScholarsTeam
             icon: fab fa-facebook-f
       - name: "Vũ Ngân Giang"
         role: "Scholarship mentor <br/> Undergraduate at Korea University <br/> Major: Business Administration"
@@ -140,7 +140,7 @@ en: &DEFAULT_EN
         social:
           - url: https://mail.google.com/mail/u/1/?view=cm&fs=1&to=semscholars.team@gmail.com&tf=1
             icon: fa fa-envelope
-          - url: https://www.facebook.com/gianggvu.03
+          - url: https://www.facebook.com/SEMScholarsTeam
             icon: fab fa-facebook-f
       - name: "Ngọ Thị Cúc"
         role: "Scholarship mentor <br/> Graduate at Kyung Hee University <br/> Major: Korean Language & Literature"
@@ -148,7 +148,15 @@ en: &DEFAULT_EN
         social:
           - url: https://mail.google.com/mail/u/1/?view=cm&fs=1&to=semscholars.team@gmail.com&tf=1
             icon: fa fa-envelope
-          - url: https://www.facebook.com/Cuc.daisyulis1781998
+          - url: https://www.facebook.com/SEMScholarsTeam
+            icon: fab fa-facebook-f
+      - name: "Nguyễn Hoàng Liên"
+        role: "Scholarship mentor <br/> Undergraduate at Korea University <br/> Major: Media Communication"
+        image: assets/img/team/Lien.jpg
+        social:
+          - url: https://mail.google.com/mail/u/1/?view=cm&fs=1&to=semscholars.team@gmail.com&tf=1
+            icon: fa fa-envelope
+          - url: https://www.facebook.com/SEMScholarsTeam
             icon: fab fa-facebook-f
       - name: "Nguyễn Ngọc Mai"
         role: "KAIST Scholarship mentor <br/> Undergraduate at KAIST <br/> Major: Computer Science"
@@ -156,7 +164,7 @@ en: &DEFAULT_EN
         social:
           - url: https://mail.google.com/mail/u/1/?view=cm&fs=1&to=semscholars.team@gmail.com&tf=1
             icon: fa fa-envelope
-          - url: https://www.facebook.com/mainguyen778
+          - url: https://www.facebook.com/SEMScholarsTeam
             icon: fab fa-facebook-f
       - name: "Đặng Thị Diệu Hiền"
         role: "Scholarship mentor for Communication major<br/> Undergraduate at Hanyang University <br/> Major: Media Communication "
@@ -164,7 +172,7 @@ en: &DEFAULT_EN
         social:
           - url: https://mail.google.com/mail/u/1/?view=cm&fs=1&to=semscholars.team@gmail.com&tf=1
             icon: fa fa-envelope
-          - url: https://www.facebook.com/merakihy
+          - url: https://www.facebook.com/SEMScholarsTeam
             icon: fab fa-facebook-f
   alumni:
     title: "Our scholars- Hall of fame"
