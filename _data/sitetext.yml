@@ -316,6 +316,9 @@ en: &DEFAULT_EN
       - name: "Nhật Mai GKS-U 2023"
         role: "Daejeon University <br/> Major: Artificial Intelligence"
         image: assets/img/alumni/daejeon.jpg
+      - name: "Khánh Ngân"
+        role: "Fulbright University Vietnam <br/> Học bổng 100% từ đại học Fulbright Việt Nam"
+        image: assets/img/alumni/fulbright.jpg
 
   contact:
     title: "Contact Us"
