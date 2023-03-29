@@ -307,6 +307,9 @@ en: &DEFAULT_EN
       - name: "Khánh Nhi GKS-U 2023"
         role: "Sungkyungkwan University <br/> Major: Business Admistration"
         image: assets/img/alumni/Skku.jpg
+      - name: "Vĩnh Nguyên GKS-U 2023"
+        role: "Seoul National University <br/> Major: Media and Communication"
+        image: assets/img/alumni/SNU.png
       - name: "Lê Trà GKS-U 2023"
         role: "Chonam National University <br/> Major: Business Admistration"
         image: assets/img/alumni/chonam.jpg
