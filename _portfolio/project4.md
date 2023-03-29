@@ -24,7 +24,7 @@ Với gói sửa kế hoạch học tập, mentee sẽ được mentor sửa k�
   <br/> Chi tiết phương thức thanh toán sẽ có ở form đăng kí. 
 2. Hoàn thành form đăng kí. [Link form](https://forms.gle/vb5613wWEQbNrDnU6){:target="_blank"}
 
-**Phí của buổi sửa study plan: $17/buổi**
+**Phí của buổi sửa study plan: $26/buổi**
 
 {:.list-inline}
 - Date: July 2022

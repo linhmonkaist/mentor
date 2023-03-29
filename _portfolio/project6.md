@@ -24,7 +24,7 @@ Với gói phỏng vấn thử(mock interview), mentee sẽ được có một b
   <br/> Chi tiết phương thức thanh toán sẽ có ở form đăng kí. 
 2. Hoàn thành form đăng kí. [Link form](https://forms.gle/vb5613wWEQbNrDnU6){:target="_blank"}
 
-**Phí của buổi phỏng vấn thử: $20/buổi**
+**Phí của buổi phỏng vấn thử: $26/buổi**
 
 {:.list-inline}
 - Date: July 2022

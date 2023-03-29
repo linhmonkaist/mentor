@@ -24,7 +24,7 @@ Với gói sửa bài luận, mentee sẽ được mentor sửa bài luận củ
   <br/> Chi tiết phương thức thanh toán sẽ có ở form đăng kí. 
 2. Hoàn thành form đăng kí. [Link form](https://forms.gle/vb5613wWEQbNrDnU6){:target="_blank"}
 
-**Phí của buổi tư vấn apply: $22/buổi**
+**Phí của buổi tư vấn apply: $26/buổi**
 
 {:.list-inline}
 - Date: July 2022

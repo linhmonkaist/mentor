@@ -111,7 +111,8 @@ en: &DEFAULT_EN
     section: team
     people:
       - name: "Linh Mon"
-        role: "Founder <br/> Undergraduate at KAIST <br/> Major: Computer Science"
+        role: "Founder <br/> Double Major in Computer Science and Business Technology Management at KAIST <br/> Nhận thư mời từ cả 3 trường: KAIST, Đại học Quốc gia Seoul
+              (SNU) và Đại học Yonsei <br/> Tham gia hỗ trợ mentee apply tất cả các ngành, các học bổng trên toàn thế giới."
         image: assets/img/team/linhmon.jpg
         social:
           - url: https://www.facebook.com/LinhMonKGSP
@@ -125,9 +126,46 @@ en: &DEFAULT_EN
             target: "_blank"
           - url: https://www.linkedin.com/in/nguyen-linh-8b4b4916b/
             icon: fab fa-linkedin-in
+      - name: "Phạm Minh Đức"
+        role: "Scholarship mentor <br/> PhD in Biochemistry tại University of California, Mỹ <br/> Từng học master Bio and Brain Engineering, KAIST, Hàn Quốc
+              <br/> Đã nhận được Dean's Distinguished Graduate Fellowship , học bổng 100% của KAIST, Huyndai Motor Chung Mong-Koo Global Scholarship, 
+              50% Scholarship for Bachelor Program at NUS và Ohio State University, USA <br/> Từng hướng dẫn thành công mentee đậu PhD ở Mỹ và master ở Hà Lan, KAIST 
+              <br/> Tham gia hướng dẫn mentee apply học bổng GKS, học bổng trường các ngành Technology & Science "
+        image: assets/img/team/minh_duc.jpg
+        social:
+          - url: https://mail.google.com/mail/u/1/?view=cm&fs=1&to=semscholars.team@gmail.com&tf=1
+            icon: fa fa-envelope
+          - url: https://www.facebook.com/SEMScholarsTeam
+            icon: fab fa-facebook-f   
+      - name: "Nguyễn Ngọc Mai"
+        role: "Scholarship mentor <br/> Double major Computer Science & Business technology management at KAIST 
+              <br/> Từng nhân được học bổng 100% KAIST,HB 95% DukeKunshanUni(China), HB 75% Swinburne Uni of Technology (Úc), HB 90% SP Jain School of Global and Management (Úc),
+              HB từ Minerva Uni(Mỹ),HB 100% Tokyo International Uni(Nhật), HB 80% Ritsumeikan Asia Pacific Uni(Nhật), HB 100% Texas Christian Uni (US),
+              trúng tuyển HKUST,Fulbright Uni Vietnam,Vinuni. 
+              <br/> Hỗ trợ thành công mentee đậu học bổng KAIST, các trường ở Nhật và các trường đại học tại Việt Nam. 
+              <br/> Tham gia hỗ trợ mentee apply học bổng của các trường trên thế giới"
+        image: assets/img/team/mai.jpg
+        social:
+          - url: https://mail.google.com/mail/u/1/?view=cm&fs=1&to=semscholars.team@gmail.com&tf=1
+            icon: fa fa-envelope
+          - url: https://www.facebook.com/SEMScholarsTeam
+            icon: fab fa-facebook-f  
+      - name: "Hoàng Đức Kiên"
+        role: "Scholarship mentor <br/> Master in Statistics, Swiss Federal Institute of Technology Lausanne, Thụy Sĩ <br/> Cựu sinh viên KAIST, ngành Mathematical Sciences
+              <br/> Đạt học bổng toàn phần của KAIST
+              <br/> Từng hướng dẫn thành công các mentee apply KAIST và các ngành khoa học ở các trường 
+              <br/> Tham gia hướng dẫn mentee apply học bổng GKS, học bổng trường các ngành Technology & Science "
+        image: assets/img/team/kien.jpg
+        social:
+          - url: https://mail.google.com/mail/u/1/?view=cm&fs=1&to=semscholars.team@gmail.com&tf=1
+            icon: fa fa-envelope
+          - url: https://www.facebook.com/SEMScholarsTeam
+            icon: fab fa-facebook-f  
       - name: "Đỗ Hoàng Thế Phúc"
-        role: "Scholarship mentor <br/> Undergraduate at National Jeonbuk university <br/> Major: Division of Microbiology- 
-        Jimmy Carter International Cooperation"
+        role: "Scholarship mentor <br/> Double Major in Microbiology and Jimmy Carter International Cooperation at National Jeonbuk university 
+              <br/> GKS 2020
+              <br/> Hỗ trợ thành công mentee apply GKS và học bổng trường
+              <br/> Tham gia hỗ trợ mentee apply học bổng GKS, học bổng các trường Hàn Quốc ở tất cả các ngành học"
         image: assets/img/team/phuc.jpg
         social:
           - url: https://mail.google.com/mail/u/1/?view=cm&fs=1&to=semscholars.team@gmail.com&tf=1
@@ -135,15 +173,31 @@ en: &DEFAULT_EN
           - url: https://www.facebook.com/SEMScholarsTeam
             icon: fab fa-facebook-f
       - name: "Vũ Ngân Giang"
-        role: "Scholarship mentor <br/> Undergraduate at Korea University <br/> Major: Business Administration"
+        role: "Scholarship mentor <br/> Major: Business Administration tại Korea University
+              <br/> Đạt học bổng GKS-U 2022, nhận thư mời từ Korea Uni, Yonsei Uni.
+              <br/> Hỗ trợ thành công mentee apply các ngành social science qua GKS và học bổng trường
+              <br/> Tham gia hỗ trợ mentee apply học bổng ngành Social Science"
         image: assets/img/team/giang.JPG
         social:
           - url: https://mail.google.com/mail/u/1/?view=cm&fs=1&to=semscholars.team@gmail.com&tf=1
             icon: fa fa-envelope
           - url: https://www.facebook.com/SEMScholarsTeam
             icon: fab fa-facebook-f
+      - name: "Phương Anh"
+        role: "Scholarship mentor <br/> Major: Business Administration tại Korea University
+              <br/> Đạt học bổng GKS-U,EGPP của Ewha Womans University
+              <br/> Tham gia hỗ trợ mentee apply học bổng ngành Social Science"
+        image: assets/img/team/phuongAnh.jpg
+        social:
+          - url: https://mail.google.com/mail/u/1/?view=cm&fs=1&to=semscholars.team@gmail.com&tf=1
+            icon: fa fa-envelope
+          - url: https://www.facebook.com/SEMScholarsTeam
+            icon: fab fa-facebook-f
       - name: "Ngọ Thị Cúc"
-        role: "Scholarship mentor <br/> Graduate at Kyung Hee University <br/> Major: Korean Language & Literature"
+        role: "Scholarship mentor <br/> Học Master ngành Korean Language & Literature at Kyung Hee University
+              <br/> GKS-G 2022, nhận được thư mời từ Kyunghee Uni, Keimyung Uni, Sookmyung Women's Uni.
+              <br/> Hỗ trợ thành công mentee apply các ngành ngôn ngữ Hàn qua GKS
+              <br/> Tham gia hỗ trợ mentee apply học bổng ngành liên quan đến ngôn ngữ Hàn"
         image: assets/img/team/Cucngo.jpg
         social:
           - url: https://mail.google.com/mail/u/1/?view=cm&fs=1&to=semscholars.team@gmail.com&tf=1
@@ -151,23 +205,21 @@ en: &DEFAULT_EN
           - url: https://www.facebook.com/SEMScholarsTeam
             icon: fab fa-facebook-f
       - name: "Nguyễn Hoàng Liên"
-        role: "Scholarship mentor <br/> Undergraduate at Korea University <br/> Major: Media Communication"
+        role: "Scholarship mentor <br/> Major: Media Communication at Korea University
+              <br/> Đạt học bổng GKS-U 2022, nhận được thư mời từ Korea Uni, Yonsei Uni. 
+              <br/> Hỗ trợ thành công mentee apply các ngành social science qua GKS và học bổng trường
+              <br/> Tham gia hỗ trợ mentee apply học bổng ngành Social Science"
         image: assets/img/team/Lien.jpg
         social:
           - url: https://mail.google.com/mail/u/1/?view=cm&fs=1&to=semscholars.team@gmail.com&tf=1
             icon: fa fa-envelope
           - url: https://www.facebook.com/SEMScholarsTeam
             icon: fab fa-facebook-f
-      - name: "Nguyễn Ngọc Mai"
-        role: "KAIST Scholarship mentor <br/> Undergraduate at KAIST <br/> Major: Computer Science"
-        image: assets/img/team/mai.jpg
-        social:
-          - url: https://mail.google.com/mail/u/1/?view=cm&fs=1&to=semscholars.team@gmail.com&tf=1
-            icon: fa fa-envelope
-          - url: https://www.facebook.com/SEMScholarsTeam
-            icon: fab fa-facebook-f
       - name: "Đặng Thị Diệu Hiền"
-        role: "Scholarship mentor for Communication major<br/> Undergraduate at Hanyang University <br/> Major: Media Communication "
+        role: "Scholarship mentor <br/> Major: Media Communication at Hanyang University 
+              <br/> Đạt học bổng GKS-U 2021
+              <br/> Hỗ trợ thành công mentee apply ngành truyền thông qua GKS
+              <br/> Tham gia hỗ trợ mentee apply học bổng ngành Social Science ở Hàn Quốc"
         image: assets/img/team/hien.jpg
         social:
           - url: https://mail.google.com/mail/u/1/?view=cm&fs=1&to=semscholars.team@gmail.com&tf=1
@@ -210,29 +262,57 @@ en: &DEFAULT_EN
         role: "GKS-U 2021 <br/> Lời nhắn đến mentee tương lai: Your Only Limit Is Your Mind"
         image: assets/img/alumni/hien.jpg
       - name: "Dương Thúy Nga"
-        role: "undergradute at SNU"
+        role: "undergradute at SNU <br/> Major: Business Admistration"
         image: assets/img/alumni/nga.jpg
-      - name: "Alumni GKS-U 2021"
-        role: "Undergraduate at Yonsei University"
-        image: assets/img/alumni/none.jpg
-      - name: "Alumni GKS-U 2021"
-        role: "Undergraduate at Kangwon national university"
-        image: assets/img/alumni/none.jpg
-      - name: "Alumni GKS-U 2022" #Nguyễn Khánh Ly
-        role: "Kyung Hee University"
-        image: assets/img/alumni/none.jpg
+      - name: "Quang Huy"
+        role: "Học bổng toàn phần KAIST <br/> Undergradute at KAIST <br/> Major: Electrical Engineering"
+        image: assets/img/alumni/kaist.jpg
+      - name: "Hòa Phan"
+        role: "Học bổng toàn phần KAIST <br/> Undergradute at KAIST <br/> Major: Computer Science"
+        image: assets/img/alumni/kaist.jpg
+      - name: "Phượng Anh"
+        role: "Học bổng Yonsei GLC <br/> Undergradute at Yonsei GLC"
+        image: assets/img/alumni/Yonsei.jpg
+      - name: "Ngọc Anh"
+        role: "Học bổng 60% của Korea University, học bổng 100% của ChungAng University, Huyndai Motor Chung Mong-Koo Global Scholarship <br/> Master at Korea University 
+              <br/> Major: Logistic"
+        image: assets/img/alumni/KU.jpg
+      - name: "Diễm Quỳnh GKS-U 2021"
+        role: "Undergraduate at Yonsei University <br/> Major: Computer Science"
+        image: assets/img/alumni/Yonsei.jpg
+      - name: "Hương Giang GKS-U 2021"
+        role: "Undergraduate at Kangwon national university <br/> Major: Computer Science"
+        image: assets/img/alumni/kangwon.jpg
+      - name: "Khánh Ly GKS-U 2022" #Nguyễn Khánh Ly
+        role: "Kyung Hee University <br/> Major: Media and Communication"
+        image: assets/img/alumni/KyungHee.jpg
       - name: "Nguyễn Hoàng Liên"
-        role: "GKS-U 2022"
-        image: assets/img/alumni/none.jpg
-      - name: "Alumni GKS-U 2022" #Hoàng Anh Thư
+        role: "GKS-U 2022 <br/> Major: Media and Communication"
+        image: assets/img/team/Lien.jpg
+      - name: "Anh Thư GKS-U 2022" #Hoàng Anh Thư
         role: "Sunmoon University"
-        image: assets/img/alumni/none.jpg
-      - name: "Alumni GKS-G 2022" #Thùy Dung
+        image: assets/img/alumni/sunmoon.jpg
+      - name: "Phương Anh GKS-U 2022" #Hoàng Anh Thư
+        role: "Đậu học bổng GKS-U 2022, EGPP của Ewha Womans University <br/> Korea University <br/> Major: Business Admistration"
+        image: assets/img/team/phuongAnh.jpg
+      - name: "Thùy Dung GKS-G 2022" #Thùy Dung
         role: "Pusan National Univeristy"
-        image: assets/img/alumni/none.jpg
-      - name: "Alumni GKS-G 2022" #thanh Tuyền
+        image: assets/img/alumni/pusan.jpg
+      - name: "Thanh Truyền GKS-G 2022" #thanh Tuyền
         role: "Sungkyungkwan University"
-        image: assets/img/alumni/none.jpg
+        image: assets/img/alumni/skku.jpg
+      - name: "Kim Khánh"
+        role: "Đậu học bổng GKS-U 2023, EGPP của Ewha Womans University <br/> Korea University <br/> Major: Business Admistration"
+        image: assets/img/alumni/KU.jpg
+      - name: "Khánh Nhi GKS-U 2023"
+        role: "Sungkyungkwan University <br/> Major: Business Admistration"
+        image: assets/img/alumni/skku.jpg
+      - name: "Lê Trà GKS-U 2023"
+        role: "Chonam National University <br/> Major: Business Admistration"
+        image: assets/img/alumni/chonam.jpg
+      - name: "Nhật Mai GKS-U 2023" #thanh Tuyền
+        role: "Daejeon University <br/> Major: Artificial Intelligence"
+        image: assets/img/alumni/daejeon.jpg
 
   contact:
     title: "Contact Us"
