@@ -292,25 +292,25 @@ en: &DEFAULT_EN
       - name: "Anh Thư GKS-U 2022" #Hoàng Anh Thư
         role: "Sunmoon University"
         image: assets/img/alumni/sunmoon.jpg
-      - name: "Phương Anh GKS-U 2022" #Hoàng Anh Thư
+      - name: "Phương Anh GKS-U 2022"
         role: "Đậu học bổng GKS-U 2022, EGPP của Ewha Womans University <br/> Korea University <br/> Major: Business Admistration"
         image: assets/img/team/phuongAnh.jpg
       - name: "Thùy Dung GKS-G 2022" #Thùy Dung
         role: "Pusan National Univeristy"
         image: assets/img/alumni/pusan.jpg
-      - name: "Thanh Truyền GKS-G 2022" #thanh Tuyền
+      - name: "Thanh Truyền GKS-G 2022"
         role: "Sungkyungkwan University"
-        image: assets/img/alumni/skku.jpg
+        image: assets/img/alumni/Skku.jpg
       - name: "Kim Khánh"
         role: "Đậu học bổng GKS-U 2023, EGPP của Ewha Womans University <br/> Korea University <br/> Major: Business Admistration"
         image: assets/img/alumni/KU.jpg
       - name: "Khánh Nhi GKS-U 2023"
         role: "Sungkyungkwan University <br/> Major: Business Admistration"
-        image: assets/img/alumni/skku.jpg
+        image: assets/img/alumni/Skku.jpg
       - name: "Lê Trà GKS-U 2023"
         role: "Chonam National University <br/> Major: Business Admistration"
         image: assets/img/alumni/chonam.jpg
-      - name: "Nhật Mai GKS-U 2023" #thanh Tuyền
+      - name: "Nhật Mai GKS-U 2023"
         role: "Daejeon University <br/> Major: Artificial Intelligence"
         image: assets/img/alumni/daejeon.jpg
 
