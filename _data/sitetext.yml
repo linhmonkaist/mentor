@@ -314,8 +314,8 @@ en: &DEFAULT_EN
         role: "Chonam National University <br/> Major: Business Admistration"
         image: assets/img/alumni/chonam.jpg
       - name: "Nhật Mai GKS-U 2023"
-        role: "Daejeon University <br/> Major: Artificial Intelligence"
-        image: assets/img/alumni/daejeon.jpg
+        role: "Hannam University <br/> Major: Artificial Intelligence"
+        image: assets/img/alumni/hannam.jpg
       - name: "Khánh Ngân"
         role: "Fulbright University Vietnam <br/> Học bổng 100% từ đại học Fulbright Việt Nam"
         image: assets/img/alumni/fulbright.jpg
