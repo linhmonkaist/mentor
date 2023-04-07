@@ -351,8 +351,7 @@ en: &DEFAULT_EN
       - url: https://mail.google.com/mail/u/1/?view=cm&fs=1&to=semscholars.team@gmail.com&tf=1
         icon: fa fa-envelope
         target: "_blank"
-      - url: https://www.linkedin.com/in/nguyen-linh-8b4b4916b/
-        icon: fab fa-linkedin-in
+
 en-US:
   <<: *DEFAULT_EN
 en-CA:
