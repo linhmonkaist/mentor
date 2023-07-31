@@ -162,7 +162,7 @@ en: &DEFAULT_EN
           - url: https://www.facebook.com/SEMScholarsTeam
             icon: fab fa-facebook-f  
       - name: "Đỗ Hoàng Thế Phúc"
-        role: "Scholarship mentor <br/> Double Major in Microbiology and Jimmy Carter International Cooperation at National Jeonbuk university 
+        role: "Scholarship mentor <br/> Double Major in Microbiology and Jimmy Carter International Cooperation at Jeonbuk National university 
               <br/> GKS 2020
               <br/> Hỗ trợ thành công mentee apply GKS và học bổng trường
               <br/> Tham gia hỗ trợ mentee apply học bổng GKS, học bổng các trường Hàn Quốc ở tất cả các ngành học"
@@ -319,6 +319,43 @@ en: &DEFAULT_EN
       - name: "Khánh Ngân"
         role: "Fulbright University Vietnam <br/> Học bổng 100% từ đại học Fulbright Việt Nam"
         image: assets/img/alumni/fulbright.jpg
+      - name: "Nguyễn Hà My"
+        role: "Ewha Womans University <br/> Học bổng 100%"
+        image: assets/img/alumni/Ewha.png
+      - name: "Phạm Thị Khánh Ninh"
+        role: "Soongsil University <br/> Học bổng MBA"
+        image: assets/img/alumni/soongsil.png
+      - name: "Hoàng Quỳnh Trang"
+        role: "ChungAng University"
+        image: assets/img/alumni/CAU.png
+      - name: "Trần Linh Chi"
+        role: "Yonsei University <br/> GKS-G 2023"
+        image: assets/img/alumni/Yonsei.jpg
+      - name: "Lê Thị Xuân "
+        role: "Dongguk University <br/> GKS-G 2023"
+        image: assets/img/alumni/dongguk.png
+      - name: "Ngô Thanh Hà"
+        role: "Kyung Hee University <br/> GKS-G 2023"
+        image: assets/img/alumni/KyungHee.jpg
+      - name: "Đặng Thế Nguyễn"
+        role: "Seoul National University <br/> GKS-G 2023"
+        image: assets/img/alumni/SNU.png
+      - name: "Nguyễn Hữu Thọ"
+        role: "Hanyang University <br/> GKS-G 2023"
+        image: assets/img/alumni/Hanyang.png
+      - name: "Lương Thị Hồng"
+        role: "Pukyong University <br/> GKS-G 2023"
+        image: assets/img/alumni/pukyong.png
+      - name: "Đỗ Hồng Hạnh"
+        role: "Ewha Womans University <br/> GKS-G 2023"
+        image: assets/img/alumni/Ewha.png
+      - name: "Nguyễn Trang Tâm Nhi"
+        role: "Dong-A University<br/> GKS-G 2023"
+        image: assets/img/alumni/donga.png
+      - name: "Nguyễn Hạnh Lam"
+        role: "Dong-A University<br/> GKS-G 2023"
+        image: assets/img/alumni/donga.png
+
 
   contact:
     title: "Contact Us"
