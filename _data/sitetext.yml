@@ -355,6 +355,9 @@ en: &DEFAULT_EN
       - name: "Nguyễn Hạnh Lam"
         role: "Dong-A University<br/> GKS-G 2023"
         image: assets/img/alumni/donga.png
+      - name: "Trịnh Thị Diễm Hồng"
+        role: "Busan University of Foreign studies"
+        image: assets/img/alumni/bufs.png
 
 
   contact:
