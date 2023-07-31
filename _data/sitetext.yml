@@ -358,6 +358,9 @@ en: &DEFAULT_EN
       - name: "Trịnh Thị Diễm Hồng"
         role: "Busan University of Foreign studies"
         image: assets/img/alumni/bufs.png
+      - name: "Hương Giang"
+        role: "Seoul National University"
+        image: assets/img/alumni/SNU.png
 
 
   contact:
