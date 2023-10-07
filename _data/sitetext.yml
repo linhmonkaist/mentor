@@ -333,16 +333,16 @@ en: &DEFAULT_EN
         image: assets/img/alumni/Yonsei.jpg
       - name: "Lê Thị Xuân "
         role: "Dongguk University <br/> GKS-G 2023"
-        image: assets/img/alumni/dongguk.png
+        image: assets\img\alumni\2023\xuan.JPG
       - name: "Ngô Thanh Hà"
         role: "Kyung Hee University <br/> GKS-G 2023"
-        image: assets/img/alumni/KyungHee.jpg
+        image: assets\img\alumni\2023\thanh_ha.jpeg
       - name: "Đặng Thế Nguyễn"
         role: "Seoul National University <br/> GKS-G 2023"
-        image: assets/img/alumni/SNU.png
+        image: assets\img\alumni\2023\the_nguyen.jpeg
       - name: "Nguyễn Hữu Thọ"
         role: "Hanyang University <br/> GKS-G 2023"
-        image: assets/img/alumni/Hanyang.png
+        image: assets\img\alumni\2023\huu_tho.jpg
       - name: "Lương Thị Hồng"
         role: "Pukyong University <br/> GKS-G 2023"
         image: assets/img/alumni/pukyong.png
@@ -351,7 +351,7 @@ en: &DEFAULT_EN
         image: assets/img/alumni/Ewha.png
       - name: "Nguyễn Trang Tâm Nhi"
         role: "Dong-A University<br/> GKS-G 2023"
-        image: assets/img/alumni/donga.png
+        image: assets\img\alumni\2023\tam_nhi.jpg
       - name: "Nguyễn Hạnh Lam"
         role: "Dong-A University<br/> GKS-G 2023"
         image: assets/img/alumni/donga.png
