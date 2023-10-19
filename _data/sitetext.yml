@@ -22,13 +22,13 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "Mentors"
-        desc: "Đội ngũ mentor dày dặn kinh nghiệm, đã đậu học bổng toàn phần và đang theo học tại các trường đại học hàng đầu. "
-        icon: fas fa-chalkboard-teacher
+        desc: "Đội ngũ mentor dày dặn kinh nghiệm, đã đậu học bổng toàn phần và đang theo học tại các trường đại học hàng đầu tại Mỹ, Hàn Quốc, Thụy Sỹ. "
+        icon: fas fa-globe-americas
       - title: "Alumni"
-        desc: "Các mentee của team nhận được học bổng/admission ở các bậc học khác nhau từ các trường đại học hàng đầu như KAIST, SNU, KU, Yonsei..."
+        desc: "Các mentee và mentor của team đã nhận được học bổng/admission ở các bậc học khác nhau từ các trường đại học hàng đầu như NUS, EPFL, HKUST, KAIST, SNU, KU, Yonsei..."
         icon: fas fa-graduation-cap
-      - title: "For mentee"
-        desc: "Các mentor sẽ là người đồng hành và giúp đỡ mentee trong việc apply học bổng với toàn bộ sự nhiệt tình, tận tâm và kinh nghiệm của mình."
+      - title: "Achievements"
+        desc: "Chinh phục 16 quốc gia, 43 trường đại học và hơn 40 suất học bổng toàn phần."
         icon: fas fa-award
 
   portfolio:
@@ -46,29 +46,28 @@ en: &DEFAULT_EN
     events:
       - title: "Beginning- with Linh Mon"
         year: "Mar 2020"
-        desc: "Chương trình mentor được do chính mình lập ra với một thành viên duy nhất mang tên Jinchuriki program. Mở đầu của chương trình mentor được đánh dấu 
+        desc: "Chương trình mentor được lập ra với một thành viên duy nhất mang tên Jinchuriki program. Mở đầu của chương trình mentor được đánh dấu 
         bằng video [Hướng dẫn apply học bổng chính phủ Hàn Quốc hệ đại học](https://youtu.be/R5jTwgcLJL8)
-        do chính mình thực hiện vào tháng 3 năm 2020, ngay sau khi mình đến Hàn để bắt đầu cho hành trình du học. "
+        do chính founder thực hiện vào tháng 3 năm 2020, ngay sau khi founder đến Hàn để bắt đầu cho hành trình du học. "
         image: assets/img/timeline/1.jpg
         alt:
       - title: "Thành tựu đầu tiên"
         year: "Jan 2021"
-        desc: "Lần đầu tiên mentor cho đợt apply học bổng chính phủ Hàn Quốc hệ đại học năm 2021 với khóa mentee đầu tiên. Mình đã hỗ trợ thành công cho:
+        desc: "Lần đầu tiên mentor cho đợt apply học bổng chính phủ Hàn Quốc hệ đại học năm 2021 với khóa mentee đầu tiên. Team đã hỗ trợ thành công cho:
         <br/>- 3 mentee đậu GKS-U 2021, 
         <br/>-1 bạn đậu học bổng toàn phần của KAIST- trường đại học khoa học kĩ thuật hàng đầu Hàn Quốc
         <br/>- 1 bạn đậu vào trường Seoul National University(SNU)- trường đại học rank 1 Hàn Quốc"
         image: assets/img/timeline/first.png
         alt:
-      - title: "GKS-G 2021"
+      - title: "Cộng sự mới"
         year: "Jul 2021"
-        desc: "Mình lại tiếp tục mentor cho các anh chị apply GKS-G 2021 và đã hỗ trợ thành công cho 2 mentee đậu học bổng GKS-G 2021."
+        desc: "Founder tìm được những người cộng sự mới và bắt đầu cùng nhau phát triển team và hỗ trợ mentee"
         image: assets/img/timeline/3.jpg
         alt: image alt text
       - title: "Không ngừng phát triển <br/> Đi theo sứ mệnh"
-        year: "2021- nay"
-        desc: "Trên con đường giúp đỡ các bạn mentee apply học bổng, mình gặp được thêm nhiều cộng sự mới để cùng nhau phát triển và thực hiện sự mệnh của chương trình
-        mentor. Team được đổi tên thành SEM Scholars và đã hỗ trợ được nhiều bạn mentee hơn apply vào nhiều học bổng hơn chứ không chỉ dừng lại ở học bổng chính phủ Hàn. 
-        <br/> Mong rằng team sẽ còn phát triển hơn để giúp đỡ nhiều bạn trẻ hơn nữa."
+        year: "Dec 2022- nay"
+        desc: "Team được đổi tên thành SEM Scholars- Scholarship Exploring with Mentors. 
+        Nhiều mentor đầy tâm huyết đã gia nhập team SEM và cùng team hỗ trợ các bạn mentee apply học bổng trên toàn thế giới."
         image: assets/img/timeline/4.jpg
         alt:
         # you can enforce the alignment
@@ -111,8 +110,10 @@ en: &DEFAULT_EN
     section: team
     people:
       - name: "Linh Mon"
-        role: "Founder <br/> Double Major in Computer Science and Business Technology Management at KAIST <br/> Nhận thư mời từ cả 3 trường: KAIST, Đại học Quốc gia Seoul
-              (SNU) và Đại học Yonsei <br/> Tham gia hỗ trợ mentee apply tất cả các ngành, các học bổng trên toàn thế giới."
+        role: "Founder <br/> Hiện đang theo học ngành Computer Science và Business Technology Management tại KAIST, Hàn Quốc. 
+        <br/> Nhận học bổng chính phủ Hàn Quốc năm 2020, học bổng Daewoong, học bổng Microsoft Youthspark.
+        <br/> Nhận thư mời từ cả 3 trường: KAIST, Đại học Quốc gia Seoul(SNU) và Đại học Yonsei 
+        <br/> Tham gia hỗ trợ mentee apply tất cả các ngành, các học bổng trên toàn thế giới."
         image: assets/img/team/linhmon.jpg
         social:
           - url: https://www.facebook.com/LinhMonKGSP
@@ -127,10 +128,12 @@ en: &DEFAULT_EN
           - url: https://www.linkedin.com/in/nguyen-linh-8b4b4916b/
             icon: fab fa-linkedin-in
       - name: "Phạm Minh Đức"
-        role: "Scholarship mentor <br/> PhD in Biochemistry tại University of California, Mỹ <br/> Từng học master Bio and Brain Engineering, KAIST, Hàn Quốc
-              <br/> Đã nhận được Dean's Distinguished Graduate Fellowship , học bổng 100% của KAIST, Huyndai Motor Chung Mong-Koo Global Scholarship, 
-              50% Scholarship for Bachelor Program at NUS và Ohio State University, USA <br/> Từng hướng dẫn thành công mentee đậu PhD ở Mỹ và master ở Hà Lan, KAIST 
-              <br/> Tham gia hướng dẫn mentee apply học bổng GKS, học bổng trường các ngành Technology & Science "
+        role: "Scholarship mentor <br/>Hiện đang học PhD chuyên ngành Biochemistry, Molecular, Cellular and Developmental Biology tại University of California, Davis, Mỹ 
+        <br/> Cựu sinh viên ngành Bio and Brain Engineering tại KAIST, Hàn Quốc
+        <br/> Đã nhận được Dean's Distinguished Graduate Fellowship , học bổng 100% của KAIST, Huyndai Motor Chung Mong-Koo Global Scholarship, 
+              50% Scholarship for Bachelor Program at NUS 
+        <br/> Từng hướng dẫn thành công mentee đậu hệ đại học, thạc sĩ và PhD ở Mỹ và master ở Hà Lan, Mỹ, Hàn Quốc. 
+        <br/> Tham gia hướng dẫn mentee apply học bổng GKS, học bổng trường các ngành Technology & Science "
         image: assets/img/team/minh_duc.jpg
         social:
           - url: https://mail.google.com/mail/u/1/?view=cm&fs=1&to=semscholars.team@gmail.com&tf=1
@@ -138,11 +141,9 @@ en: &DEFAULT_EN
           - url: https://www.facebook.com/SEMScholarsTeam
             icon: fab fa-facebook-f   
       - name: "Nguyễn Ngọc Mai"
-        role: "Scholarship mentor <br/> Double major Computer Science & Business technology management at KAIST 
-              <br/> Từng nhân được học bổng 100% KAIST,HB 95% DukeKunshanUni(China), HB 75% Swinburne Uni of Technology (Úc), HB 90% SP Jain School of Global and Management (Úc),
-              HB từ Minerva Uni(Mỹ),HB 100% Tokyo International Uni(Nhật), HB 80% Ritsumeikan Asia Pacific Uni(Nhật), HB 100% Texas Christian Uni (US),
-              trúng tuyển HKUST,Fulbright Uni Vietnam,Vinuni. 
-              <br/> Hỗ trợ thành công mentee đậu học bổng KAIST, các trường ở Nhật và các trường đại học tại Việt Nam. 
+        role: "Scholarship mentor <br/> Hiện đang theo học ngành Computer Science và Business Technology Management tại KAIST, Hàn Quốc. 
+              <br/> Từng đạt học bổng toàn phần của KAIST; học bổng 100% và hỗ trợ tài chính của các trường: Minerva University (Mỹ), Texas Christian University (Mỹ), Allegheny College (Mỹ), Depauw University (Mỹ), Hobart & William Smith College (Mỹ), Lewis & Clarke College (Mỹ), Miami University (Mỹ), Ohio Wesleyan University (Mỹ), Rhodes College (Mỹ), Tokyo International University (Nhật); Đạt học bổng 95% Duke Kunshan University (Trung Quốc), 75% Swinburne University of Technology (Úc), 50% Deakin University (Úc), 90% SP Jain School of Global and Management (Úc), 80% Ritsumeikan Asia Pacific University (Nhật); Nhận được thư mời nhập học với học bổng/hỗ trợ tài chính cao từ Fulbright University Vietnam, VinUniversity, The Hong Kong University of Science and Technology (Hồng Kông).
+              <br/> Hỗ trợ thành công mentee dành học bổng toàn phần của KAIST và các học bổng khác trên thế giới.  
               <br/> Tham gia hỗ trợ mentee apply học bổng của các trường trên thế giới"
         image: assets/img/team/mai.jpg
         social:
@@ -151,7 +152,8 @@ en: &DEFAULT_EN
           - url: https://www.facebook.com/SEMScholarsTeam
             icon: fab fa-facebook-f  
       - name: "Hoàng Đức Kiên"
-        role: "Scholarship mentor <br/> Master in Statistics, Swiss Federal Institute of Technology Lausanne, Thụy Sĩ <br/> Cựu sinh viên KAIST, ngành Mathematical Sciences
+        role: "Scholarship mentor <br/> Hiện đang học ngành Statistics tại Swiss Federal Institute of Technology Lausanne, Thụy Sĩ 
+         <br/> Cựu sinh viên KAIST, ngành Mathematical Sciences
               <br/> Đạt học bổng toàn phần của KAIST
               <br/> Từng hướng dẫn thành công các mentee apply KAIST và các ngành khoa học ở các trường 
               <br/> Tham gia hướng dẫn mentee apply học bổng GKS, học bổng trường các ngành Technology & Science "
@@ -162,9 +164,9 @@ en: &DEFAULT_EN
           - url: https://www.facebook.com/SEMScholarsTeam
             icon: fab fa-facebook-f  
       - name: "Đỗ Hoàng Thế Phúc"
-        role: "Scholarship mentor <br/> Double Major in Microbiology and Jimmy Carter International Cooperation at Jeonbuk National university 
-              <br/> GKS 2020
-              <br/> Hỗ trợ thành công mentee apply GKS và học bổng trường
+        role: "Scholarship mentor <br/> Hiện đang học chuyên ngành Microbiology và International relation tại Jeonbuk National University
+              <br/> Nhận học bổng GKS-U 2020
+              <br/> Hỗ trợ thành công mentee apply các ngành khác nhau của GKS và học bổng trường
               <br/> Tham gia hỗ trợ mentee apply học bổng GKS, học bổng các trường Hàn Quốc ở tất cả các ngành học"
         image: assets/img/team/phuc.jpg
         social:
@@ -173,8 +175,9 @@ en: &DEFAULT_EN
           - url: https://www.facebook.com/SEMScholarsTeam
             icon: fab fa-facebook-f
       - name: "Vũ Ngân Giang"
-        role: "Scholarship mentor <br/> Major: Business Administration tại Korea University
-              <br/> Đạt học bổng GKS-U 2022, nhận thư mời từ Korea Uni, Yonsei Uni.
+        role: "Scholarship mentor <br/> Hiện đang học chuyên ngành Bussiness Administration tại Korea University
+              <br/> Nhận học bổng GKS-U 2022
+              <br/> Nhận được thư mời nhập học từ Korea University, Yonsei University
               <br/> Hỗ trợ thành công mentee apply các ngành social science qua GKS và học bổng trường
               <br/> Tham gia hỗ trợ mentee apply học bổng ngành Social Science"
         image: assets/img/team/giang.JPG
@@ -184,8 +187,9 @@ en: &DEFAULT_EN
           - url: https://www.facebook.com/SEMScholarsTeam
             icon: fab fa-facebook-f
       - name: "Phương Anh"
-        role: "Scholarship mentor <br/> Major: Business Administration tại Korea University
+        role: "Scholarship mentor <br/> Hiện đang học chuyên ngành Bussiness Administration tại Korea University
               <br/> Đạt học bổng GKS-U,EGPP của Ewha Womans University
+              <br/> Nhận được thư mời nhập học từ Korea University, Yonsei University
               <br/> Tham gia hỗ trợ mentee apply học bổng ngành Social Science"
         image: assets/img/team/phuongAnh.jpg
         social:
@@ -194,8 +198,9 @@ en: &DEFAULT_EN
           - url: https://www.facebook.com/SEMScholarsTeam
             icon: fab fa-facebook-f
       - name: "Ngọ Thị Cúc"
-        role: "Scholarship mentor <br/> Học Master ngành Korean Language & Literature at Kyung Hee University
-              <br/> GKS-G 2022, nhận được thư mời từ Kyunghee Uni, Keimyung Uni, Sookmyung Women's Uni.
+        role: "Scholarship mentor <br/> Hiện tại đang học thạc sĩ ngành Korean Language & Literature tại Kyunghee University, Hàn Quốc. 
+              <br/> Nhận học bổng GKS-G 2022
+              <br/> Nhận được thư mời nhập học từ 3 trường: Kyunghee Uni, Keimyung Uni, Sookmyung Women's Uni.
               <br/> Hỗ trợ thành công mentee apply các ngành ngôn ngữ Hàn qua GKS
               <br/> Tham gia hỗ trợ mentee apply học bổng ngành liên quan đến ngôn ngữ Hàn"
         image: assets/img/team/Cucngo.jpg
@@ -205,8 +210,9 @@ en: &DEFAULT_EN
           - url: https://www.facebook.com/SEMScholarsTeam
             icon: fab fa-facebook-f
       - name: "Nguyễn Hoàng Liên"
-        role: "Scholarship mentor <br/> Major: Media Communication at Korea University
-              <br/> Đạt học bổng GKS-U 2022, nhận được thư mời từ Korea Uni, Yonsei Uni. 
+        role: "Scholarship mentor <br/> Hiện đang học chuyên ngành Media & Communication và International relation tại Korea University, Hàn Quốc
+              <br/> Nhận học bổng GKS-U 2022
+              <br/> Nhận được thư mời nhập học từ Korea University, Yonsei University
               <br/> Hỗ trợ thành công mentee apply các ngành social science qua GKS và học bổng trường
               <br/> Tham gia hỗ trợ mentee apply học bổng ngành Social Science"
         image: assets/img/team/Lien.jpg
@@ -216,7 +222,7 @@ en: &DEFAULT_EN
           - url: https://www.facebook.com/SEMScholarsTeam
             icon: fab fa-facebook-f
       - name: "Đặng Thị Diệu Hiền"
-        role: "Scholarship mentor <br/> Major: Media Communication at Hanyang University 
+        role: "Scholarship mentor <br/> Hiện đang học chuyên ngành Media & Communication tại Hanyang University, Hàn Quốc
               <br/> Đạt học bổng GKS-U 2021
               <br/> Hỗ trợ thành công mentee apply ngành truyền thông qua GKS
               <br/> Tham gia hỗ trợ mentee apply học bổng ngành Social Science ở Hàn Quốc"

@@ -8,10 +8,10 @@ p {
   line-height: 1.75;
 }
 
-a {
-  color: $primary;
+a.contact {
+  color: $white;
   &:hover {
-    color: darken($primary, 10%);
+    color: darken($selection-color, 10%);
   }
 }
 
@@ -67,7 +67,7 @@ h6 {
 }
 
 ::selection {
-  background: $primary;
+  background: $selection-color;
   text-shadow: none;
 }
 

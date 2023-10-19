@@ -1,13 +1,13 @@
 ---
-title: Mentor A-Z hệ sau đại học
+title: Mentor A-Z hệ đại học
 #subtitle: 
 #image: 
 #alt: S  
 
 caption:
-  title: Graduate Mentor A-Z
-  subtitle: Dành cho hệ sau đại học
-  thumbnail: assets/img/portfolio/grad.png
+  title: Undergraduate Mentor A-Z
+  subtitle: Dành cho hệ đại học
+  thumbnail: assets/img/portfolio/under.png
 ---
 <style>
 table, th, td {
@@ -25,9 +25,9 @@ table, th, td {
     <td style="text-align: center; vertical-align: middle;">Đối tượng</td>
   </tr>
     <tr>
-    <td style="text-align: center; vertical-align: middle;">Gói Định hướng</td>
-    <td style="text-align: center; vertical-align: middle;">4,800,000 VND</td>
-    <td style="text-align: left; vertical-align: middle; ">Các bạn có định hướng nghiên cứu. <br>Muốn liên lạc giáo sư trước khi apply. <br>Tăng cơ hội được nhận admission/học bổng nếu giáo sư đồng ý</td>
+    <td style="text-align: center; vertical-align: middle;">Gói Điền online application form</td>
+    <td style="text-align: center; vertical-align: middle;">2,800,000 VND</td>
+    <td style="text-align: left; vertical-align: middle; ">Các bạn apply học bổng trường/admission cho hệ đại học mà quy trình xét tuyển không yêu cầu viết luận, chỉ xét hồ sơ</td>
   </tr>
   <tr>
     <td style="text-align: center; vertical-align: middle;">Gói Essay chuyên sâu</td>
@@ -51,7 +51,7 @@ table, th, td {
 <table style="width: 100%">
   <tr>
     <td style="width: 32%"> </td>
-    <td style="text-align: center; vertical-align: middle; width: 17%">Gói Định hướng</td>
+    <td style="text-align: center; vertical-align: middle; width: 17%">Gói Điền online application form</td>
     <td style="text-align: center; vertical-align: middle; width: 17%">Gói Essay chuyên sâu</td>
     <td style="text-align: center; vertical-align: middle; width: 17%">Gói Basic</td>
     <td style="text-align: center; vertical-align: middle; width: 17%">Gói Premium*</td>
@@ -85,22 +85,22 @@ table, th, td {
     <td style="text-align: center; vertical-align: middle;"> &#9989; </td>
   </tr> 
   <tr>
-    <td style="text-align: center; vertical-align: middle;">Hướng dẫn tìm, liên lạc, trả lời email và set up buổi trao đổi với giáo sư nghiên cứu</td>
+    <td style="text-align: center; vertical-align: middle;">Hướng dẫn điền online application form</td>
     <td style="text-align: center; vertical-align: middle;"> &#9989; </td>
     <td style="text-align: center; vertical-align: middle;"> &#x274C; </td>
-    <td style="text-align: center; vertical-align: middle;"> &#x274C; </td>
+    <td style="text-align: center; vertical-align: middle;"> &#9989; </td>
     <td style="text-align: center; vertical-align: middle;"> &#9989; </td>
   </tr> 
   <tr>
-    <td style="text-align: center; vertical-align: middle;">Sửa CV, cover letter</td>
+    <td style="text-align: center; vertical-align: middle;">Sửa CV, portfolio</td>
     <td style="text-align: center; vertical-align: middle;"> &#9989; </td>
     <td style="text-align: center; vertical-align: middle;"> &#x274C; </td>
-    <td style="text-align: center; vertical-align: middle;"> &#x274C; </td>
+    <td style="text-align: center; vertical-align: middle;"> &#9989; </td>
     <td style="text-align: center; vertical-align: middle;"> &#9989; </td>
   </tr> 
   <tr>
     <td style="text-align: center; vertical-align: middle;">Hướng dẫn xin tem vàng, làm giấy tờ cứng</td>
-    <td style="text-align: center; vertical-align: middle;"> &#x274C; </td>
+    <td style="text-align: center; vertical-align: middle;"> &#9989; </td>
     <td style="text-align: center; vertical-align: middle;"> &#x274C; </td>
     <td style="text-align: center; vertical-align: middle;"> &#9989; </td>
     <td style="text-align: center; vertical-align: middle;"> &#9989; </td>
@@ -114,14 +114,14 @@ table, th, td {
   </tr> 
   <tr>
     <td style="text-align: center; vertical-align: middle;">Mock Interview</td>
-    <td style="text-align: center; vertical-align: middle;"> &#x274C; </td>
+    <td style="text-align: center; vertical-align: middle;"> &#9989; </td>
     <td style="text-align: center; vertical-align: middle;"> &#x274C; </td>
     <td style="text-align: center; vertical-align: middle;"> &#9989; </td>
     <td style="text-align: center; vertical-align: middle;"> &#9989; </td>
   </tr>
   <tr>
     <td style="text-align: center; vertical-align: middle;">Giới hạn</td>
-    <td style="text-align: center; vertical-align: middle;">Hỗ trợ liên hệ tối đa 5 giáo sư</td>
+    <td style="text-align: center; vertical-align: middle;">Hỗ trợ apply tối đa 3 trường</td>
     <td style="text-align: center; vertical-align: middle;">Lựa chọn 1 trong 5 loại Essay*</td>
     <td style="text-align: center; vertical-align: middle;">Hỗ trợ 1 học bổng hoặc 1 trường</td>
     <td style="text-align: center; vertical-align: middle;">Không giới hạn số trường, học bổng. </td>
@@ -138,19 +138,9 @@ table, th, td {
     <td style="text-align: center; vertical-align: middle; width: 25%">Phí sau ưu đãi</td>
   </tr>
   <tr>
-    <td style="text-align: center; vertical-align: middle;">Combo 1 gói Định hướng + 1 gói Basic</td>
-    <td style="text-align: center; vertical-align: middle;">Giảm 1,000,000 VND</td>
-    <td style="text-align: center; vertical-align: middle;">12,000,000 VND</td>
-  </tr>
-  <tr>
-    <td style="text-align: center; vertical-align: middle;">Combo 1 gói Định hướng + 1 buổi mock interview</td>
-    <td style="text-align: center; vertical-align: middle;">Giảm 100,000 VND</td>
-    <td style="text-align: center; vertical-align: middle;">5,500,000 VND</td>
-  </tr>
-  <tr>
-    <td style="text-align: center; vertical-align: middle;">Combo 1 gói Định hướng + 1 gói Essay chuyên sâu</td>
-    <td style="text-align: center; vertical-align: middle;">Giảm 800,000 VND</td>
-    <td style="text-align: center; vertical-align: middle;">9,000,000 VND</td>
+    <td style="text-align: center; vertical-align: middle;">Combo 1 gói Điền online application form + 1 gói Basic</td>
+    <td style="text-align: center; vertical-align: middle;">Giảm 500,000 VND</td>
+    <td style="text-align: center; vertical-align: middle;">10,500,000 VND</td>
   </tr>
   <tr>
     <td style="text-align: center; vertical-align: middle;">Combo 2 gói Basic</td>
@@ -163,9 +153,9 @@ table, th, td {
     <td style="text-align: center; vertical-align: middle;">20,600,000 VND</td>
   </tr>
   <tr>
-    <td style="text-align: center; vertical-align: middle;">Hỗ trợ liên lạc giáo sư thứ 6 trở lên cho gói Định hướng</td>
-    <td style="text-align: center; vertical-align: middle;">Thêm 500,000 VND/ 1 giáo sư</td>
-    <td style="text-align: center; vertical-align: middle;">5,300,000 VND/ 6 giáo sư</td>
+    <td style="text-align: center; vertical-align: middle;">Hỗ trợ apply nhiều hơn 3 trường cho gói gói Điền online application form</td>
+    <td style="text-align: center; vertical-align: middle;">Thêm 800,000 VND/ 1 trường</td>
+    <td style="text-align: center; vertical-align: middle;">3,600,000 VND/ 4 trường</td>
   </tr>
 </table>
 
