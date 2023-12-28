@@ -1,12 +1,12 @@
 ---
-title: Mentor A-Z hệ sau đại học
+title: Mentor A-Z - Các gói mentor hỗ trợ không giới hạn
 #subtitle: 
 #image: 
 #alt: S  
 
 caption:
-  title: Graduate Mentor A-Z
-  subtitle: Dành cho hệ sau đại học
+  title: Mentor A-Z
+  subtitle: Mentor không giới hạn
   thumbnail: assets/img/portfolio/grad.png
 ---
 <style>
@@ -20,9 +20,14 @@ table, th, td {
 **Tổng quan chương trình mentor**
 <table style="width: 100%">
   <tr>
-    <td style="width: 30%"> </td>
+    <td style="text-align: center; vertical-align: middle; width: 30%">Tên gói</td>
     <td style="text-align: center; vertical-align: middle; width: 20%">Phí</td>
     <td style="text-align: center; vertical-align: middle;">Đối tượng</td>
+  </tr>
+    <tr>
+    <td style="text-align: center; vertical-align: middle;">Gói Điền online application form</td>
+    <td style="text-align: center; vertical-align: middle;">2,800,000 VND</td>
+    <td style="text-align: left; vertical-align: middle; ">Các bạn apply học bổng trường/admission cho hệ đại học mà quy trình xét tuyển không yêu cầu viết luận, chỉ xét hồ sơ. Đồng thời, các bạn cần mentor hướng dẫn chuẩn bị hồ sơ, CV, portfolio ..v.v.</td>
   </tr>
     <tr>
     <td style="text-align: center; vertical-align: middle;">Gói Định hướng</td>
@@ -50,11 +55,12 @@ table, th, td {
 **Thông tin hỗ trợ của các gói mentor:**  
 <table style="width: 100%">
   <tr>
-    <td style="width: 32%"> </td>
-    <td style="text-align: center; vertical-align: middle; width: 17%">Gói Định hướng</td>
-    <td style="text-align: center; vertical-align: middle; width: 17%">Gói Essay chuyên sâu</td>
-    <td style="text-align: center; vertical-align: middle; width: 17%">Gói Basic</td>
-    <td style="text-align: center; vertical-align: middle; width: 17%">Gói Premium*</td>
+    <td style=""> </td>
+    <td style="text-align: center; vertical-align: middle; width: calc(1.5/10*100%)">Gói Điền online application form</td>
+    <td style="text-align: center; vertical-align: middle; width: calc(1.5/10*100%)">Gói Định hướng</td>
+    <td style="text-align: center; vertical-align: middle; width: calc(1.5/10*100%)">Gói Essay chuyên sâu</td>
+    <td style="text-align: center; vertical-align: middle; width: calc(1.5/10*100%)">Gói Basic</td>
+    <td style="text-align: center; vertical-align: middle; width: calc(1.5/10*100%)">Gói Premium*</td>
   </tr>
     <tr>
     <td style="text-align: center; vertical-align: middle;">Lựa chọn mentor</td>
@@ -62,9 +68,11 @@ table, th, td {
     <td style="text-align: center; vertical-align: middle;"> &#9989; </td>
     <td style="text-align: center; vertical-align: middle;"> &#9989; </td>
     <td style="text-align: center; vertical-align: middle;"> &#9989; </td>
+    <td style="text-align: center; vertical-align: middle;"> &#9989; </td>
   </tr>
   <tr>
-    <td style="text-align: center; vertical-align: middle;">Đánh giá CV</td>
+    <td style="text-align: center; vertical-align: middle;">Đánh giá CV, portfolio</td>
+    <td style="text-align: center; vertical-align: middle;"> &#9989; </td>
     <td style="text-align: center; vertical-align: middle;"> &#9989; </td>
     <td style="text-align: center; vertical-align: middle;"> &#9989; </td>
     <td style="text-align: center; vertical-align: middle;"> &#9989; </td>
@@ -76,6 +84,7 @@ table, th, td {
     <td style="text-align: center; vertical-align: middle;"> &#9989; </td>
     <td style="text-align: center; vertical-align: middle;"> &#9989; </td>
     <td style="text-align: center; vertical-align: middle;"> &#9989; </td>
+    <td style="text-align: center; vertical-align: middle;"> &#9989; </td>
   </tr>  
   <tr>
     <td style="text-align: center; vertical-align: middle;">Tài liệu hỗ trợ</td>
@@ -83,16 +92,19 @@ table, th, td {
     <td style="text-align: center; vertical-align: middle;"> &#9989; </td>
     <td style="text-align: center; vertical-align: middle;"> &#9989; </td>
     <td style="text-align: center; vertical-align: middle;"> &#9989; </td>
+    <td style="text-align: center; vertical-align: middle;"> &#9989; </td>
   </tr> 
   <tr>
     <td style="text-align: center; vertical-align: middle;">Hướng dẫn tìm, liên lạc, trả lời email và set up buổi trao đổi với giáo sư nghiên cứu</td>
+    <td style="text-align: center; vertical-align: middle;"> &#x274C; </td>
     <td style="text-align: center; vertical-align: middle;"> &#9989; </td>
     <td style="text-align: center; vertical-align: middle;"> &#x274C; </td>
     <td style="text-align: center; vertical-align: middle;"> &#x274C; </td>
     <td style="text-align: center; vertical-align: middle;"> &#9989; </td>
   </tr> 
   <tr>
-    <td style="text-align: center; vertical-align: middle;">Sửa CV, cover letter</td>
+    <td style="text-align: center; vertical-align: middle;">Sửa cover letter</td>
+    <td style="text-align: center; vertical-align: middle;"> &#9989; </td>
     <td style="text-align: center; vertical-align: middle;"> &#9989; </td>
     <td style="text-align: center; vertical-align: middle;"> &#x274C; </td>
     <td style="text-align: center; vertical-align: middle;"> &#x274C; </td>
@@ -100,6 +112,7 @@ table, th, td {
   </tr> 
   <tr>
     <td style="text-align: center; vertical-align: middle;">Hướng dẫn xin tem vàng, làm giấy tờ cứng</td>
+    <td style="text-align: center; vertical-align: middle;"> &#9989; </td>
     <td style="text-align: center; vertical-align: middle;"> &#x274C; </td>
     <td style="text-align: center; vertical-align: middle;"> &#x274C; </td>
     <td style="text-align: center; vertical-align: middle;"> &#9989; </td>
@@ -108,12 +121,14 @@ table, th, td {
   <tr>
     <td style="text-align: center; vertical-align: middle;">Sửa Study plan/ Personal statement/ Research statement/ LOR/ Cover letter</td>
     <td style="text-align: center; vertical-align: middle;"> &#x274C; </td>
+    <td style="text-align: center; vertical-align: middle;"> &#x274C; </td>
     <td style="text-align: center; vertical-align: middle;"> &#9989; </td>
     <td style="text-align: center; vertical-align: middle;"> &#9989; </td>
     <td style="text-align: center; vertical-align: middle;"> &#9989; </td>
   </tr> 
   <tr>
     <td style="text-align: center; vertical-align: middle;">Mock Interview</td>
+    <td style="text-align: center; vertical-align: middle;"> &#9989; </td>
     <td style="text-align: center; vertical-align: middle;"> &#x274C; </td>
     <td style="text-align: center; vertical-align: middle;"> &#x274C; </td>
     <td style="text-align: center; vertical-align: middle;"> &#9989; </td>
@@ -121,13 +136,22 @@ table, th, td {
   </tr>
   <tr>
     <td style="text-align: center; vertical-align: middle;">Giới hạn</td>
+    <td style="text-align: center; vertical-align: middle;">Hỗ trợ apply tối đa 3 trường</td>
     <td style="text-align: center; vertical-align: middle;">Hỗ trợ liên hệ tối đa 5 giáo sư</td>
     <td style="text-align: center; vertical-align: middle;">Lựa chọn 1 trong 5 loại Essay*</td>
     <td style="text-align: center; vertical-align: middle;">Hỗ trợ 1 học bổng hoặc 1 trường</td>
     <td style="text-align: center; vertical-align: middle;">Không giới hạn số trường, học bổng. </td>
   </tr> 
+  <tr>
+    <td style="text-align: center; vertical-align: middle;">Thời gian hỗ trợ</td>
+    <td style="text-align: center; vertical-align: middle;">Từ lúc đăng ký đến lúc chính thức có kết quả của trường đã apply. Tối đa: 1 năm</td>
+    <td style="text-align: center; vertical-align: middle;">Từ lúc đăng ký đến lúc chính thức có kết quả từ phía giáo sư đã liên lạc. Tối đa: 1 năm</td>
+    <td style="text-align: center; vertical-align: middle;">Từ lúc đăng ký đến lúc chính thức có kết quả của trường/học bổng đã apply. Tối đa: 1 năm</td>
+    <td style="text-align: center; vertical-align: middle;">Từ lúc đăng ký đến lúc chính thức có kết quả của trường/học bổng đã apply. Tối đa: 1 năm</td>
+    <td style="text-align: center; vertical-align: middle;">Hỗ trợ trong 1 năm từ lúc đăng ký. Trong thỏa thuận có thể kéo dài hơn 1 năm với mục đích chờ kết quả của học bổng mentee muốn apply.</td>
+  </tr> 
 </table>
-*Gói Premium: Hoàn trả 50% phí cho mentee nếu sau 1 năm mentee đã hoàn thành các bước của lộ trình mentor nhưng không nhận được thư mời từ bất cứ trường nào trong danh sách hỗ trợ nộp hồ sơ. 
+*Gói Premium: Được lựa chọn thanh toán tối đa 2 đợt. Tức là mentee có thể thanh toán 1 lần, hoặc thanh toán 2 lần (mỗi lần 15 triệu ). 
 <br> *5 loại essay cho gói Essay chuyên sâu: Study plan/ Personal statement/ Research statement/ Letter of recommendation/ Cover letter
 
 **Ưu đãi**
