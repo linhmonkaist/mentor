@@ -133,7 +133,7 @@ en: &DEFAULT_EN
         <br/> Đã nhận được Dean's Distinguished Graduate Fellowship , học bổng 100% của KAIST, Huyndai Motor Chung Mong-Koo Global Scholarship, 
               50% Scholarship for Bachelor Program at NUS 
         <br/> Từng hướng dẫn thành công mentee đậu hệ đại học, thạc sĩ và PhD ở Mỹ và master ở Hà Lan, Mỹ, Hàn Quốc. 
-        <br/> Tham gia hướng dẫn mentee apply học bổng GKS, học bổng trường các ngành Technology & Science "
+        <br/> Tham gia hướng dẫn mentee apply học bổng GKS, học bổng trường các ngành Engineering/Science các nước trên thế giới. "
         image: assets/img/team/minh_duc.jpg
         social:
           - url: https://mail.google.com/mail/u/1/?view=cm&fs=1&to=semscholars.team@gmail.com&tf=1
@@ -227,6 +227,17 @@ en: &DEFAULT_EN
               <br/> Hỗ trợ thành công mentee apply ngành truyền thông qua GKS
               <br/> Tham gia hỗ trợ mentee apply học bổng ngành Social Science ở Hàn Quốc"
         image: assets/img/team/hien.jpg
+        social:
+          - url: https://mail.google.com/mail/u/1/?view=cm&fs=1&to=semscholars.team@gmail.com&tf=1
+            icon: fa fa-envelope
+          - url: https://www.facebook.com/SEMScholarsTeam
+            icon: fab fa-facebook-f
+      - name: "Ninh Phạm Thành Trung"
+        role: "Scholarship mentor <br/> Hiện đang học chuyên ngành Environmental Engineering tại KAIST, Hàn Quốc
+              <br/> Đạt học bổng GKS-G 2022, học bổng toàn phần cho hệ thạc sĩ tại National Taiwan University (Đài Loan), học bổng VLIR-UOS (Full-ride) cho bậc thạc sĩ tại Bỉ. 
+              <br/> Hỗ trợ thành công mentee apply GKS-G và học bổng chính phủ Đài Loan (MOE Taiwan Scholarship 2023). 
+              <br/> Tham gia hỗ trợ mentee apply học bổng ngành Sciece/Engineering tại các nước trên thế giới." 
+        image: assets/img/team/thanh_trung.jpg
         social:
           - url: https://mail.google.com/mail/u/1/?view=cm&fs=1&to=semscholars.team@gmail.com&tf=1
             icon: fa fa-envelope
