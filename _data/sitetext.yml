@@ -258,7 +258,7 @@ en: &DEFAULT_EN
               <br/> Đạt học bổng 100% của trường SNU, học bổng toàn phần có sinh hoạt phí của trường CUHK, học bổng tập đoàn Amore Pacific Hàn Quốc, học bổng doanh nghiệp Việt-Hàn Green Academy,
               học bổng viện nghiên cứu môi trường châu Á. 
               <br/> Tham gia hỗ trợ mentee apply học bổng các trường trên thế giới." 
-        image: assets\img\alumni\SNU.png
+        image: assets/img/team/quynhnhi.jpg
         social:
           - url: https://mail.google.com/mail/u/1/?view=cm&fs=1&to=semscholars.team@gmail.com&tf=1
             icon: fa fa-envelope
