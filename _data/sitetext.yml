@@ -308,6 +308,9 @@ en: &DEFAULT_EN
       - name: "Hòa Phan"
         role: "Học bổng toàn phần KAIST <br/> Undergradute at KAIST <br/> Major: Computer Science"
         image: assets/img/alumni/kaist.jpg
+      - name: "Thanh Vân"
+        role: "Học bổng toàn phần KAIST <br/> Undergradute at KAIST"
+        image: assets/img/alumni/kaist.jpg
       - name: "Phượng Anh"
         role: "Học bổng Yonsei GLC <br/> Undergradute at Yonsei GLC"
         image: assets/img/alumni/Yonsei.jpg
@@ -345,6 +348,9 @@ en: &DEFAULT_EN
       - name: "Khánh Nhi GKS-U 2023"
         role: "Sungkyungkwan University <br/> Major: Business Admistration"
         image: assets/img/alumni/Skku.jpg
+      - name: "Nguyễn Hương Linh"
+        role: "Sungkyungkwan University, Spring 2024 <br/> Học bổng 50% kỳ đầu tiên"
+        image: assets/img/alumni/Skku.jpg
       - name: "Vĩnh Nguyên GKS-U 2023"
         role: "Seoul National University <br/> Major: Media and Communication"
         image: assets/img/alumni/SNU.png
@@ -358,7 +364,7 @@ en: &DEFAULT_EN
         role: "Fulbright University Vietnam <br/> Học bổng 100% từ đại học Fulbright Việt Nam"
         image: assets/img/alumni/fulbright.jpg
       - name: "Nguyễn Hà My"
-        role: "Ewha Womans University <br/> Học bổng 100%"
+        role: "Ewha Womans University <br/> Học bổng 100% 4 năm học"
         image: assets/img/alumni/Ewha.png
       - name: "Phạm Thị Khánh Ninh"
         role: "Soongsil University <br/> Học bổng MBA"
@@ -397,10 +403,56 @@ en: &DEFAULT_EN
         role: "Busan University of Foreign studies"
         image: assets/img/alumni/bufs.png
       - name: "Hương Giang"
-        role: "Seoul National University"
+        role: "Seoul National University <br/> Học bổng Global Talent"
         image: assets/img/alumni/SNU.png
-
-
+      - name: "Thái Thanh"
+        role: "Pusan National Univeristy <br/> GKS-U 2024"
+        image: assets/img/alumni/pusan.jpg
+      - name: "Ngọc Anh"
+        role: "Yonsei University <br/> GKS-U 2024"
+        image: assets/img/alumni/Yonsei.jpg
+      - name: "Lê Thị Hương Linh"
+        role: "Yonsei University <br/> Học bổng 100% 4 năm học hệ UIC"
+        image: assets/img/alumni/Yonsei.jpg
+      - name: "Thùy Anh"
+        role: "Yonsei University <br/> Học bổng 100% 2 năm học hệ GLC"
+        image: assets/img/alumni/Yonsei.jpg
+      - name: "Hà Chi"
+        role: "Yonsei University <br/> Học bổng 100% 2 năm học hệ GLC"
+        image: assets/img/alumni/Yonsei.jpg
+      - name: "Hiếu Ngân"
+        role: "Yonsei University <br/> Admission hệ undergraduate"
+        image: assets/img/alumni/Yonsei.jpg
+      - name: "Ngọc Nhi"
+        role: "Yonsei University <br/> Admission hệ undergraduate"
+        image: assets/img/alumni/Yonsei.jpg
+      - name: "Mai Phương Anh"
+        role: "Hanyang University - Học bổng HISP 50% <br/> Ewha Womans University- Học bổng 100% kỳ đầu tiên <br> Sungkyunkwan University - Học bổng 50% kỳ đầu tiên"
+        image: assets/img/alumni/Hanyang.png
+      - name: "Trang Phạm"
+        role: "Ewha Womans University & Hanyang University<br/> Học bổng bậc PhD"
+        image: assets/img/alumni/Ewha.png
+      - name: "Thu Trang"
+        role: "Ewha Womans University<br/> Học bổng 100% cho 2 năm học"
+        image: assets/img/alumni/Ewha.png
+      - name: "Lê Thùy Trang"
+        role: "Ewha Womans University<br/> Học bổng 100% cho kỳ đầu tiên"
+        image: assets/img/alumni/Ewha.png
+      - name: "Lê Hoàng Anh"
+        role: "Ewha Womans University<br/> Học bổng 100% cho kỳ đầu tiên"
+        image: assets/img/alumni/Ewha.png
+      - name: "Phương Ngọc"
+        role: "Ewha Womans University<br/> Học bổng 100% cho kỳ đầu tiên"
+        image: assets/img/alumni/Ewha.png
+      - name: "Tú Anh"
+        role: "Ewha Womans University<br/> Got admission"
+        image: assets/img/alumni/Ewha.png
+      - name: "Nguyễn Mai Linh"
+        role: "Ewha Womans University<br/> Got admission"
+        image: assets/img/alumni/Ewha.png
+      - name: "Trần Mỹ Tâm"
+        role: "ChungAng University <br/> Học bổng 100% cho kỳ đầu tiên"
+        image: assets/img/alumni/CAU.png
   contact:
     title: "Contact Us"
     text: "Email: semscholars.team@gmail.com </br> Facebook page: https://www.facebook.com/LinhMonKGSP Linh Mon 
