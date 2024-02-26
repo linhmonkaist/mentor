@@ -119,13 +119,21 @@ table, th, td {
     <td style="text-align: center; vertical-align: middle;"> &#9989; </td>
   </tr> 
   <tr>
-    <td style="text-align: center; vertical-align: middle;">Sửa Study plan/ Personal statement/ Research statement/ LOR</td>
+    <td style="text-align: center; vertical-align: middle;">Sửa Study plan/ Personal statement/ LOR</td>
     <td style="text-align: center; vertical-align: middle;"> &#x274C; </td>
     <td style="text-align: center; vertical-align: middle;"> &#x274C; </td>
     <td style="text-align: center; vertical-align: middle;"> &#9989; </td>
     <td style="text-align: center; vertical-align: middle;"> &#9989; </td>
     <td style="text-align: center; vertical-align: middle;"> &#9989; </td>
-  </tr> 
+  </tr>
+  <tr>
+    <td style="text-align: center; vertical-align: middle;">Sửa Research statement</td>
+    <td style="text-align: center; vertical-align: middle;"> &#x274C; </td>
+    <td style="text-align: center; vertical-align: middle;"> &#x274C; </td>
+    <td style="text-align: center; vertical-align: middle;"> &#9989; </td>
+    <td style="text-align: center; vertical-align: middle;"> &#x274C; </td>
+    <td style="text-align: center; vertical-align: middle;"> &#9989; </td>
+  </tr>  
   <tr>
     <td style="text-align: center; vertical-align: middle;">Mock Interview</td>
     <td style="text-align: center; vertical-align: middle;"> &#9989; </td>
