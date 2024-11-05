@@ -253,6 +253,16 @@ en: &DEFAULT_EN
           - url: https://mail.google.com/mail/u/1/?view=cm&fs=1&to=semscholars.team@gmail.com&tf=1
             icon: fa fa-envelope
           - url: https://www.facebook.com/SEMScholarsTeam
+            icon: fab fa-facpp;ebook-f
+      - name: "Nguyễn Phương Ngọc"
+        role: "Scholarship mentor <br/> Hiện đang học thạc sĩ chuyên ngành Media & Communications tại trường Ewha, Hàn Quốc
+              <br/> Đạt học bổng GKS-G 2024  
+              <br/> Tham gia hỗ trợ mentee apply học bổng khối ngành khoa học xã hội." 
+        image: assets/img/team/phuong_ngoc.JPG
+        social:
+          - url: https://mail.google.com/mail/u/1/?view=cm&fs=1&to=semscholars.team@gmail.com&tf=1
+            icon: fa fa-envelope
+          - url: https://www.facebook.com/SEMScholarsTeam
             icon: fab fa-facebook-f
   alumni:
     title: "Our scholars- Hall of fame"
