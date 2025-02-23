@@ -264,6 +264,17 @@ en: &DEFAULT_EN
             icon: fa fa-envelope
           - url: https://www.facebook.com/SEMScholarsTeam
             icon: fab fa-facebook-f
+      - name: "Hoàng Thị Hồng Ngọc"
+        role: "Scholarship mentor <br/> Hiện đang học thạc sĩ chuyên ngành Giáo dục tiếng Hàn tại trường Ewha, Hàn Quốc
+              <br/> Đạt học bổng GKS-G 2023  
+              <br/> Hỗ trợ thành công mentee apply các ngành ngôn ngữ Hàn qua GKS
+              <br/> Tham gia hỗ trợ mentee apply học bổng ngành liên quan đến ngôn ngữ Hàn"
+        image: assets/img/team/hoang_ngoc.png
+        social:
+          - url: https://mail.google.com/mail/u/1/?view=cm&fs=1&to=semscholars.team@gmail.com&tf=1
+            icon: fa fa-envelope
+          - url: https://www.facebook.com/SEMScholarsTeam
+            icon: fab fa-facebook-f
   alumni:
     title: "Our scholars- Hall of fame"
     text: "Những mentee xuất sắc của team mentor"
