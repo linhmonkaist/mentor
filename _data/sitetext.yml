@@ -28,7 +28,7 @@ en: &DEFAULT_EN
         desc: "Các mentee và mentor của team đã nhận được học bổng/admission ở các bậc học khác nhau từ các trường đại học hàng đầu như NUS, EPFL, HKUST, KAIST, SNU, KU, Yonsei..."
         icon: fas fa-graduation-cap
       - title: "Achievements"
-        desc: "Chinh phục 16 quốc gia, 43 trường đại học và hơn 40 suất học bổng toàn phần."
+        desc: "Chinh phục 16 quốc gia, hơn 43 trường đại học và hơn 100 suất học bổng toàn phần."
         icon: fas fa-award
 
   portfolio:
@@ -165,7 +165,7 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f  
       - name: "Đỗ Hoàng Thế Phúc"
         role: "Scholarship mentor <br/> Hiện đang học chuyên ngành Microbiology và International relation tại Jeonbuk National University
-              <br/> Nhận học bổng GKS-U 2020
+              <br/> Nhận học bổng GKS-U 2020, học bổng Eramus Mundus 2025
               <br/> Hỗ trợ thành công mentee apply các ngành khác nhau của GKS và học bổng trường
               <br/> Tham gia hỗ trợ mentee apply học bổng GKS, học bổng các trường Hàn Quốc ở tất cả các ngành học"
         image: assets/img/team/phuc.jpg
